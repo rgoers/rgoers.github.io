@@ -35,7 +35,7 @@
 <span class="sourceLineNo">027</span>import org.apache.logging.log4j.core.config.plugins.PluginElement;<a name="line.27"></a>
 <span class="sourceLineNo">028</span>import org.apache.logging.log4j.core.config.plugins.PluginFactory;<a name="line.28"></a>
 <span class="sourceLineNo">029</span>import org.apache.logging.log4j.core.util.Booleans;<a name="line.29"></a>
-<span class="sourceLineNo">030</span>import org.apache.logging.log4j.core.util.Loader;<a name="line.30"></a>
+<span class="sourceLineNo">030</span>import org.apache.logging.log4j.util.LoaderUtil;<a name="line.30"></a>
 <span class="sourceLineNo">031</span>import org.apache.logging.log4j.util.Strings;<a name="line.31"></a>
 <span class="sourceLineNo">032</span><a name="line.32"></a>
 <span class="sourceLineNo">033</span>/**<a name="line.33"></a>
@@ -93,7 +93,7 @@
 <span class="sourceLineNo">085</span><a name="line.85"></a>
 <span class="sourceLineNo">086</span>        try {<a name="line.86"></a>
 <span class="sourceLineNo">087</span>            final Class&lt;? extends AbstractLogEventWrapperEntity&gt; entityClass =<a name="line.87"></a>
-<span class="sourceLineNo">088</span>                Loader.loadClass(entityClassName).asSubclass(AbstractLogEventWrapperEntity.class);<a name="line.88"></a>
+<span class="sourceLineNo">088</span>                LoaderUtil.loadClass(entityClassName).asSubclass(AbstractLogEventWrapperEntity.class);<a name="line.88"></a>
 <span class="sourceLineNo">089</span><a name="line.89"></a>
 <span class="sourceLineNo">090</span>            try {<a name="line.90"></a>
 <span class="sourceLineNo">091</span>                entityClass.getConstructor();<a name="line.91"></a>
