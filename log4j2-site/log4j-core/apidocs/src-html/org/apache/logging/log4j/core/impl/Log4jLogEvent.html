@@ -749,7 +749,7 @@
 <span class="sourceLineNo">741</span>        final String n = loggerName.isEmpty() ? LoggerConfig.ROOT : loggerName;<a name="line.741"></a>
 <span class="sourceLineNo">742</span>        sb.append("Logger=").append(n);<a name="line.742"></a>
 <span class="sourceLineNo">743</span>        sb.append(" Level=").append(level.name());<a name="line.743"></a>
-<span class="sourceLineNo">744</span>        sb.append(" Message=").append(message.getFormattedMessage());<a name="line.744"></a>
+<span class="sourceLineNo">744</span>        sb.append(" Message=").append(message == null ? null : message.getFormattedMessage());<a name="line.744"></a>
 <span class="sourceLineNo">745</span>        return sb.toString();<a name="line.745"></a>
 <span class="sourceLineNo">746</span>    }<a name="line.746"></a>
 <span class="sourceLineNo">747</span><a name="line.747"></a>

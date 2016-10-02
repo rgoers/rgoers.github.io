@@ -108,8 +108,8 @@
 <a class="jxr_linenumber" name="L100" href="#L100">100</a>             <em class="jxr_comment">// [LOG4J2-703] We might be on Android</em>
 <a class="jxr_linenumber" name="L101" href="#L101">101</a>             lookups.put(LOOKUP_KEY_JNDI,
 <a class="jxr_linenumber" name="L102" href="#L102">102</a>                 Loader.newCheckedInstanceOf(<span class="jxr_string">"org.apache.logging.log4j.core.lookup.JndiLookup"</span>, StrLookup.<strong class="jxr_keyword">class</strong>));
-<a class="jxr_linenumber" name="L103" href="#L103">103</a>         } <strong class="jxr_keyword">catch</strong> (<strong class="jxr_keyword">final</strong> Throwable t) {
-<a class="jxr_linenumber" name="L104" href="#L104">104</a>             handleError(LOOKUP_KEY_JNDI, t);
+<a class="jxr_linenumber" name="L103" href="#L103">103</a>         } <strong class="jxr_keyword">catch</strong> (<strong class="jxr_keyword">final</strong> LinkageError | Exception e) {
+<a class="jxr_linenumber" name="L104" href="#L104">104</a>             handleError(LOOKUP_KEY_JNDI, e);
 <a class="jxr_linenumber" name="L105" href="#L105">105</a>         }
 <a class="jxr_linenumber" name="L106" href="#L106">106</a>         <em class="jxr_comment">// JMX input args</em>
 <a class="jxr_linenumber" name="L107" href="#L107">107</a>         <strong class="jxr_keyword">try</strong> {
@@ -117,8 +117,8 @@
 <a class="jxr_linenumber" name="L109" href="#L109">109</a>             lookups.put(LOOKUP_KEY_JVMRUNARGS,
 <a class="jxr_linenumber" name="L110" href="#L110">110</a>                 Loader.newCheckedInstanceOf(<span class="jxr_string">"org.apache.logging.log4j.core.lookup.JmxRuntimeInputArgumentsLookup"</span>,
 <a class="jxr_linenumber" name="L111" href="#L111">111</a>                         StrLookup.<strong class="jxr_keyword">class</strong>));
-<a class="jxr_linenumber" name="L112" href="#L112">112</a>         } <strong class="jxr_keyword">catch</strong> (<strong class="jxr_keyword">final</strong> Throwable t) {
-<a class="jxr_linenumber" name="L113" href="#L113">113</a>             handleError(LOOKUP_KEY_JVMRUNARGS, t);
+<a class="jxr_linenumber" name="L112" href="#L112">112</a>         } <strong class="jxr_keyword">catch</strong> (<strong class="jxr_keyword">final</strong> LinkageError | Exception e) {
+<a class="jxr_linenumber" name="L113" href="#L113">113</a>             handleError(LOOKUP_KEY_JVMRUNARGS, e);
 <a class="jxr_linenumber" name="L114" href="#L114">114</a>         }
 <a class="jxr_linenumber" name="L115" href="#L115">115</a>         lookups.put(<span class="jxr_string">"date"</span>, <strong class="jxr_keyword">new</strong> <a href="../../../../../../org/apache/logging/log4j/core/lookup/DateLookup.html">DateLookup</a>());
 <a class="jxr_linenumber" name="L116" href="#L116">116</a>         lookups.put(<span class="jxr_string">"ctx"</span>, <strong class="jxr_keyword">new</strong> <a href="../../../../../../org/apache/logging/log4j/core/lookup/ContextMapLookup.html">ContextMapLookup</a>());

@@ -749,7 +749,7 @@
 <a class="jxr_linenumber" name="L741" href="#L741">741</a>         <strong class="jxr_keyword">final</strong> String n = loggerName.isEmpty() ? LoggerConfig.ROOT : loggerName;
 <a class="jxr_linenumber" name="L742" href="#L742">742</a>         sb.append(<span class="jxr_string">"Logger="</span>).append(n);
 <a class="jxr_linenumber" name="L743" href="#L743">743</a>         sb.append(<span class="jxr_string">" Level="</span>).append(level.name());
-<a class="jxr_linenumber" name="L744" href="#L744">744</a>         sb.append(<span class="jxr_string">" Message="</span>).append(message.getFormattedMessage());
+<a class="jxr_linenumber" name="L744" href="#L744">744</a>         sb.append(<span class="jxr_string">" Message="</span>).append(message == <strong class="jxr_keyword">null</strong> ? <strong class="jxr_keyword">null</strong> : message.getFormattedMessage());
 <a class="jxr_linenumber" name="L745" href="#L745">745</a>         <strong class="jxr_keyword">return</strong> sb.toString();
 <a class="jxr_linenumber" name="L746" href="#L746">746</a>     }
 <a class="jxr_linenumber" name="L747" href="#L747">747</a> 

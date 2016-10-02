@@ -44,7 +44,7 @@
 <span class="sourceLineNo">036</span>/**<a name="line.36"></a>
 <span class="sourceLineNo">037</span> * This Appender allows the logging event to be manipulated before it is processed by other Appenders.<a name="line.37"></a>
 <span class="sourceLineNo">038</span> */<a name="line.38"></a>
-<span class="sourceLineNo">039</span>@Plugin(name = "Rewrite", category = "Core", elementType = "appender", printObject = true)<a name="line.39"></a>
+<span class="sourceLineNo">039</span>@Plugin(name = "Rewrite", category = "Core", elementType = Appender.ELEMENT_TYPE, printObject = true)<a name="line.39"></a>
 <span class="sourceLineNo">040</span>public final class RewriteAppender extends AbstractAppender {<a name="line.40"></a>
 <span class="sourceLineNo">041</span><a name="line.41"></a>
 <span class="sourceLineNo">042</span>    private final Configuration config;<a name="line.42"></a>
