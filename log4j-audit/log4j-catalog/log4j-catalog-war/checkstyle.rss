@@ -25,8 +25,8 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2016 - 2018 Apache Software Foundation</copyright>
     <item>
-      <title>File: 16,
-             Errors: 191,
+      <title>File: 17,
+             Errors: 198,
              Warnings: 0,
              Infos: 0
       </title>
@@ -158,6 +158,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="http://maven.apache.org/checkstyle.html#application.properties">application.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.controller.EventController.java">org/apache/logging/log4j/catalog/controller/EventController.java</a>
                 </td>
                 <td>
@@ -223,7 +237,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  47
+                  53
                 </td>
               </tr>
                           <tr>
