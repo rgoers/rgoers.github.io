@@ -68,7 +68,7 @@
 <a class="jxr_linenumber" name="L60" href="#L60">60</a>  <em class="jxr_javadoccomment">     * @param fileName The name of the file to manage.</em>
 <a class="jxr_linenumber" name="L61" href="#L61">61</a>  <em class="jxr_javadoccomment">     * @param append true if the file should be appended to, false if it should</em>
 <a class="jxr_linenumber" name="L62" href="#L62">62</a>  <em class="jxr_javadoccomment">     *            be overwritten.</em>
-<a class="jxr_linenumber" name="L63" href="#L63">63</a>  <em class="jxr_javadoccomment">     * @param isFlush true if the contents should be flushed to disk on every</em>
+<a class="jxr_linenumber" name="L63" href="#L63">63</a>  <em class="jxr_javadoccomment">     * @param immediateFlush true if the contents should be flushed to disk on every</em>
 <a class="jxr_linenumber" name="L64" href="#L64">64</a>  <em class="jxr_javadoccomment">     *            write</em>
 <a class="jxr_linenumber" name="L65" href="#L65">65</a>  <em class="jxr_javadoccomment">     * @param bufferSize The buffer size.</em>
 <a class="jxr_linenumber" name="L66" href="#L66">66</a>  <em class="jxr_javadoccomment">     * @param advertiseURI the URI to use when advertising the file</em>
@@ -76,12 +76,12 @@
 <a class="jxr_linenumber" name="L68" href="#L68">68</a>  <em class="jxr_javadoccomment">     * @param configuration The configuration.</em>
 <a class="jxr_linenumber" name="L69" href="#L69">69</a>  <em class="jxr_javadoccomment">     * @return A RandomAccessFileManager for the File.</em>
 <a class="jxr_linenumber" name="L70" href="#L70">70</a>  <em class="jxr_javadoccomment">     */</em>
-<a class="jxr_linenumber" name="L71" href="#L71">71</a>      <strong class="jxr_keyword">public</strong> <strong class="jxr_keyword">static</strong> <a href="../../../../../../org/apache/logging/log4j/core/appender/RandomAccessFileManager.html">RandomAccessFileManager</a> getFileManager(<strong class="jxr_keyword">final</strong> String fileName, <strong class="jxr_keyword">final</strong> <strong class="jxr_keyword">boolean</strong> append,
-<a class="jxr_linenumber" name="L72" href="#L72">72</a>              <strong class="jxr_keyword">final</strong> <strong class="jxr_keyword">boolean</strong> isFlush, <strong class="jxr_keyword">final</strong> <strong class="jxr_keyword">int</strong> bufferSize, <strong class="jxr_keyword">final</strong> String advertiseURI,
-<a class="jxr_linenumber" name="L73" href="#L73">73</a>              <strong class="jxr_keyword">final</strong> Layout&lt;? <strong class="jxr_keyword">extends</strong> Serializable&gt; layout, <strong class="jxr_keyword">final</strong> <a href="../../../../../../org/apache/logging/log4j/core/config/Configuration.html">Configuration</a> configuration) {
-<a class="jxr_linenumber" name="L74" href="#L74">74</a>          <strong class="jxr_keyword">return</strong> narrow(RandomAccessFileManager.<strong class="jxr_keyword">class</strong>, getManager(fileName, <strong class="jxr_keyword">new</strong> <a href="../../../../../../org/apache/logging/log4j/core/appender/WriterAppender.html">FactoryData</a>(append,
-<a class="jxr_linenumber" name="L75" href="#L75">75</a>                  isFlush, bufferSize, advertiseURI, layout, configuration), FACTORY));
-<a class="jxr_linenumber" name="L76" href="#L76">76</a>      }
+<a class="jxr_linenumber" name="L71" href="#L71">71</a>  	<strong class="jxr_keyword">public</strong> <strong class="jxr_keyword">static</strong> <a href="../../../../../../org/apache/logging/log4j/core/appender/RandomAccessFileManager.html">RandomAccessFileManager</a> getFileManager(<strong class="jxr_keyword">final</strong> String fileName, <strong class="jxr_keyword">final</strong> <strong class="jxr_keyword">boolean</strong> append,
+<a class="jxr_linenumber" name="L72" href="#L72">72</a>  			<strong class="jxr_keyword">final</strong> <strong class="jxr_keyword">boolean</strong> immediateFlush, <strong class="jxr_keyword">final</strong> <strong class="jxr_keyword">int</strong> bufferSize, <strong class="jxr_keyword">final</strong> String advertiseURI,
+<a class="jxr_linenumber" name="L73" href="#L73">73</a>  			<strong class="jxr_keyword">final</strong> Layout&lt;? <strong class="jxr_keyword">extends</strong> Serializable&gt; layout, <strong class="jxr_keyword">final</strong> <a href="../../../../../../org/apache/logging/log4j/core/config/Configuration.html">Configuration</a> configuration) {
+<a class="jxr_linenumber" name="L74" href="#L74">74</a>  		<strong class="jxr_keyword">return</strong> narrow(RandomAccessFileManager.<strong class="jxr_keyword">class</strong>, getManager(fileName,
+<a class="jxr_linenumber" name="L75" href="#L75">75</a>  				<strong class="jxr_keyword">new</strong> <a href="../../../../../../org/apache/logging/log4j/core/appender/WriterAppender.html">FactoryData</a>(append, immediateFlush, bufferSize, advertiseURI, layout, configuration), FACTORY));
+<a class="jxr_linenumber" name="L76" href="#L76">76</a>  	}
 <a class="jxr_linenumber" name="L77" href="#L77">77</a>  
 <a class="jxr_linenumber" name="L78" href="#L78">78</a>      <strong class="jxr_keyword">public</strong> Boolean isEndOfBatch() {
 <a class="jxr_linenumber" name="L79" href="#L79">79</a>          <strong class="jxr_keyword">return</strong> isEndOfBatch.get();

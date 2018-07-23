@@ -25,8 +25,8 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;1999 - 2018 The Apache Software Foundation</copyright>
     <item>
-      <title>File: 641,
-             Errors: 4290,
+      <title>File: 645,
+             Errors: 4340,
              Warnings: 0,
              Infos: 16
       </title>
@@ -167,7 +167,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  19
                 </td>
               </tr>
                           <tr>
@@ -251,7 +251,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  3
+                  5
                 </td>
               </tr>
                           <tr>
@@ -391,7 +391,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  7
+                  8
                 </td>
               </tr>
                           <tr>
@@ -993,7 +993,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  7
+                  8
                 </td>
               </tr>
                           <tr>
@@ -1203,7 +1203,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  21
+                  23
                 </td>
               </tr>
                           <tr>
@@ -2295,7 +2295,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  14
+                  19
                 </td>
               </tr>
                           <tr>
@@ -3248,6 +3248,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-core//checkstyle.html#org.apache.logging.log4j.core.impl.MementoMessage.java">org/apache/logging/log4j/core/impl/MementoMessage.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
                 </td>
               </tr>
                           <tr>
@@ -4269,7 +4283,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  1
+                  0
                 </td>
               </tr>
                           <tr>
@@ -4451,7 +4465,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  5
+                  7
                 </td>
               </tr>
                           <tr>
@@ -6215,7 +6229,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  1
+                  2
                 </td>
               </tr>
                           <tr>
@@ -6458,6 +6472,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-core//checkstyle.html#org.apache.logging.log4j.core.async.AbstractAsyncExceptionHandler.java">org/apache/logging/log4j/core/async/AbstractAsyncExceptionHandler.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-core//checkstyle.html#org.apache.logging.log4j.core.appender.rolling.action.IfNot.java">org/apache/logging/log4j/core/appender/rolling/action/IfNot.java</a>
                 </td>
                 <td>
@@ -6621,7 +6649,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  13
+                  14
                 </td>
               </tr>
                           <tr>
@@ -6963,6 +6991,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-core//checkstyle.html#org.apache.logging.log4j.core.layout.PatternMatch.java">org/apache/logging/log4j/core/layout/PatternMatch.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-core//checkstyle.html#org.apache.logging.log4j.core.appender.rolling.NoOpTriggeringPolicy.java">org/apache/logging/log4j/core/appender/rolling/NoOpTriggeringPolicy.java</a>
                 </td>
                 <td>
                   0
@@ -8357,7 +8399,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  7
+                  16
                 </td>
               </tr>
                           <tr>
@@ -8554,6 +8596,20 @@ under the License.
                 </td>
                 <td>
                   6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-core//checkstyle.html#org.apache.logging.log4j.core.Version.java">org/apache/logging/log4j/core/Version.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
                 </td>
               </tr>
                           <tr>
