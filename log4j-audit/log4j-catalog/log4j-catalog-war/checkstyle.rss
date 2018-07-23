@@ -19,14 +19,14 @@ under the License.
 -->
 <rss version="0.91">
   <channel>
-    <title>Log4j Catalog Service - Checkstyle report</title>
+    <title>Log4j Catalog Editor - Checkstyle report</title>
     <link>http://maven.apache.org</link>
-    <description>Log4j Catalog Service - Checkstyle report</description>
+    <description>Log4j Catalog Editor - Checkstyle report</description>
     <language>en-us</language>
     <copyright>&#169;2016 - 2018 Apache Software Foundation</copyright>
     <item>
-      <title>File: 15,
-             Errors: 199,
+      <title>File: 17,
+             Errors: 198,
              Warnings: 0,
              Infos: 0
       </title>
@@ -74,6 +74,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.AuditCatalogEditor.java">org/apache/logging/log4j/catalog/AuditCatalogEditor.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.controller.ProductController.java">org/apache/logging/log4j/catalog/controller/ProductController.java</a>
                 </td>
                 <td>
@@ -111,7 +125,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  10
+                  9
                 </td>
               </tr>
                           <tr>
@@ -140,6 +154,20 @@ under the License.
                 </td>
                 <td>
                   13
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#application.properties">application.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
                 </td>
               </tr>
                           <tr>
@@ -195,7 +223,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  6
+                  10
                 </td>
               </tr>
                           <tr>
@@ -209,7 +237,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  48
+                  53
                 </td>
               </tr>
                           <tr>
@@ -237,7 +265,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  17
+                  5
                 </td>
               </tr>
                           <tr>
