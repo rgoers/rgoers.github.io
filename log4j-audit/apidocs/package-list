@@ -31,7 +31,6 @@ org.apache.logging.log4j.catalog.jpa
 org.apache.logging.log4j.catalog.jpa.config
 org.apache.logging.log4j.catalog.jpa.converter
 org.apache.logging.log4j.catalog.jpa.dao
-org.apache.logging.log4j.catalog.jpa.exception
 org.apache.logging.log4j.catalog.jpa.model
 org.apache.logging.log4j.catalog.jpa.service
 org.apache.logging.log4j.catalog.security

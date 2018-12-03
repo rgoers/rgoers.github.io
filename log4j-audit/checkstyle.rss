@@ -25,8 +25,8 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2016 - 2018 Apache Software Foundation</copyright>
     <item>
-      <title>File: 178,
-             Errors: 814,
+      <title>File: 172,
+             Errors: 815,
              Warnings: 0,
              Infos: 0
       </title>
@@ -242,6 +242,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="http://logging.apache.org/log4j-audit/checkstyle.html#org.apache.logging.log4j.audit.exception.ConstraintValidationException.java">org/apache/logging/log4j/audit/exception/ConstraintValidationException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="http://logging.apache.org/log4j-audit/checkstyle.html#org.apache.logging.log4j.catalog.api.annotation.ConditionOnPropertyExists.java">org/apache/logging/log4j/catalog/api/annotation/ConditionOnPropertyExists.java</a>
                 </td>
                 <td>
@@ -312,20 +326,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://logging.apache.org/log4j-audit/checkstyle.html#org.apache.logging.log4j.catalog.jpa.exception.InvalidSiteException.java">org/apache/logging/log4j/catalog/jpa/exception/InvalidSiteException.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="http://logging.apache.org/log4j-audit/checkstyle.html#org.apache.logging.log4j.audit.annotation.HeaderPrefix.java">org/apache/logging/log4j/audit/annotation/HeaderPrefix.java</a>
                 </td>
                 <td>
@@ -349,7 +349,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  10
+                  14
                 </td>
               </tr>
                           <tr>
@@ -391,7 +391,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  5
+                  1
                 </td>
               </tr>
                           <tr>
@@ -419,21 +419,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  9
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://logging.apache.org/log4j-audit/checkstyle.html#org.apache.logging.log4j.catalog.api.exception.DuplicateNameException.java">org/apache/logging/log4j/catalog/api/exception/DuplicateNameException.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
+                  10
                 </td>
               </tr>
                           <tr>
@@ -1012,20 +998,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://logging.apache.org/log4j-audit/checkstyle.html#org.apache.logging.log4j.catalog.api.exception.InvalidSiteException.java">org/apache/logging/log4j/catalog/api/exception/InvalidSiteException.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="http://logging.apache.org/log4j-audit/checkstyle.html#org.apache.logging.log4j.audit.generator.Parameter.java">org/apache/logging/log4j/audit/generator/Parameter.java</a>
                 </td>
                 <td>
@@ -1139,20 +1111,6 @@ under the License.
                           <tr>
                 <td>
                   <a href="http://logging.apache.org/log4j-audit/checkstyle.html#org.apache.logging.log4j.audit.annotation.Required.java">org/apache/logging/log4j/audit/annotation/Required.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://logging.apache.org/log4j-audit/checkstyle.html#org.apache.logging.log4j.catalog.api.exception.CatalogWriteException.java">org/apache/logging/log4j/catalog/api/exception/CatalogWriteException.java</a>
                 </td>
                 <td>
                   0
@@ -1516,20 +1474,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://logging.apache.org/log4j-audit/checkstyle.html#org.apache.logging.log4j.catalog.api.exception.ConstraintValidationException.java">org/apache/logging/log4j/catalog/api/exception/ConstraintValidationException.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="http://logging.apache.org/log4j-audit/checkstyle.html#org.apache.logging.log4j.audit.service.controller.AuditController.java">org/apache/logging/log4j/audit/service/controller/AuditController.java</a>
                 </td>
                 <td>
@@ -1624,20 +1568,6 @@ under the License.
                 </td>
                 <td>
                   4
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://logging.apache.org/log4j-audit/checkstyle.html#org.apache.logging.log4j.catalog.jpa.exception.InvalidEnvironmentException.java">org/apache/logging/log4j/catalog/jpa/exception/InvalidEnvironmentException.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
                 </td>
               </tr>
                           <tr>
@@ -1852,20 +1782,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://logging.apache.org/log4j-audit/checkstyle.html#org.apache.logging.log4j.catalog.api.exception.InvalidEnvironmentException.java">org/apache/logging/log4j/catalog/api/exception/InvalidEnvironmentException.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="http://logging.apache.org/log4j-audit/checkstyle.html#org.apache.logging.log4j.catalog.git.dao.GitCatalogDao.java">org/apache/logging/log4j/catalog/git/dao/GitCatalogDao.java</a>
                 </td>
                 <td>
@@ -1903,7 +1819,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  8
+                  9
                 </td>
               </tr>
                           <tr>
@@ -2043,7 +1959,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  1
+                  0
                 </td>
               </tr>
                           <tr>
