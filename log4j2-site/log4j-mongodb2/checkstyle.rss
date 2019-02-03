@@ -23,7 +23,7 @@ under the License.
     <link>https://logging.apache.org/log4j/2.x/log4j-mongodb2/</link>
     <description>Apache Log4j MongoDB 2 - Checkstyle report</description>
     <language>en-us</language>
-    <copyright>&#169;1999 - 2018 The Apache Software Foundation</copyright>
+    <copyright>&#169;1999 - 2019 The Apache Software Foundation</copyright>
     <item>
       <title>File: 4,
              Errors: 63,
@@ -44,20 +44,6 @@ under the License.
             </tr>
           </thead>
           <tbody>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-mongodb2//checkstyle.html#org.apache.logging.log4j.mongodb2.MongoDbProvider.java">org/apache/logging/log4j/mongodb2/MongoDbProvider.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  53
-                </td>
-              </tr>
                           <tr>
                 <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-mongodb2//checkstyle.html#org.apache.logging.log4j.mongodb2.MongoDbConnection.java">org/apache/logging/log4j/mongodb2/MongoDbConnection.java</a>
@@ -84,6 +70,20 @@ under the License.
                 </td>
                 <td>
                   2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-mongodb2//checkstyle.html#org.apache.logging.log4j.mongodb2.MongoDbProvider.java">org/apache/logging/log4j/mongodb2/MongoDbProvider.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  53
                 </td>
               </tr>
                           <tr>

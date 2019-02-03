@@ -23,7 +23,7 @@ under the License.
     <link>https://logging.apache.org/log4j/2.x/log4j-slf4j18-impl/</link>
     <description>Apache Log4j SLF4J 1.8+ Binding - Checkstyle report</description>
     <language>en-us</language>
-    <copyright>&#169;1999 - 2018 The Apache Software Foundation</copyright>
+    <copyright>&#169;1999 - 2019 The Apache Software Foundation</copyright>
     <item>
       <title>File: 9,
              Errors: 10,
@@ -46,6 +46,20 @@ under the License.
           <tbody>
                           <tr>
                 <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-slf4j18-impl//checkstyle.html#org.apache.logging.slf4j.Log4jMarker.java">org/apache/logging/slf4j/Log4jMarker.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-slf4j18-impl//checkstyle.html#org.apache.logging.slf4j.SLF4JLoggingException.java">org/apache/logging/slf4j/SLF4JLoggingException.java</a>
                 </td>
                 <td>
@@ -60,7 +74,49 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-slf4j18-impl//checkstyle.html#org.apache.logging.slf4j.Log4jMarkerFactory.java">org/apache/logging/slf4j/Log4jMarkerFactory.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-slf4j18-impl//checkstyle.html#org.apache.logging.slf4j.Log4jLoggerFactory.java">org/apache/logging/slf4j/Log4jLoggerFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-slf4j18-impl//checkstyle.html#org.apache.logging.slf4j.SLF4JServiceProvider.java">org/apache/logging/slf4j/SLF4JServiceProvider.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-slf4j18-impl//checkstyle.html#org.apache.logging.slf4j.package-info.java">org/apache/logging/slf4j/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-slf4j18-impl//checkstyle.html#org.apache.logging.slf4j.Log4jMDCAdapter.java">org/apache/logging/slf4j/Log4jMDCAdapter.java</a>
                 </td>
                 <td>
                   0
@@ -102,63 +158,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-slf4j18-impl//checkstyle.html#org.apache.logging.slf4j.Log4jMDCAdapter.java">org/apache/logging/slf4j/Log4jMDCAdapter.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-slf4j18-impl//checkstyle.html#org.apache.logging.slf4j.SLF4JServiceProvider.java">org/apache/logging/slf4j/SLF4JServiceProvider.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-slf4j18-impl//checkstyle.html#org.apache.logging.slf4j.Log4jLoggerFactory.java">org/apache/logging/slf4j/Log4jLoggerFactory.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-slf4j18-impl//checkstyle.html#org.apache.logging.slf4j.Log4jMarker.java">org/apache/logging/slf4j/Log4jMarker.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  6
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-slf4j18-impl//checkstyle.html#org.apache.logging.slf4j.package-info.java">org/apache/logging/slf4j/package-info.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-slf4j18-impl//checkstyle.html#org.apache.logging.slf4j.Log4jMarkerFactory.java">org/apache/logging/slf4j/Log4jMarkerFactory.java</a>
                 </td>
                 <td>
                   0

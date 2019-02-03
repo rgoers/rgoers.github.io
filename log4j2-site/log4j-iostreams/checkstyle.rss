@@ -23,10 +23,10 @@ under the License.
     <link>https://logging.apache.org/log4j/2.x/log4j-iostreams/</link>
     <description>Apache Log4j Streaming Interface - Checkstyle report</description>
     <language>en-us</language>
-    <copyright>&#169;1999 - 2018 The Apache Software Foundation</copyright>
+    <copyright>&#169;1999 - 2019 The Apache Software Foundation</copyright>
     <item>
-      <title>File: 14,
-             Errors: 30,
+      <title>File: 26,
+             Errors: 46,
              Warnings: 0,
              Infos: 2
       </title>
@@ -46,6 +46,104 @@ under the License.
           <tbody>
                           <tr>
                 <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.LoggerFilterOutputStream.java">org/apache/logging/log4j/io/LoggerFilterOutputStream.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.internal.InternalReader.java">org/apache/logging/log4j/io/internal/InternalReader.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.internal.InternalFilterOutputStream.java">org/apache/logging/log4j/io/internal/InternalFilterOutputStream.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.IoBuilder.java">org/apache/logging/log4j/io/IoBuilder.java</a>
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  12
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.internal.package-info.java">org/apache/logging/log4j/io/internal/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.internal.InternalPrintWriter.java">org/apache/logging/log4j/io/internal/InternalPrintWriter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.LoggerInputStream.java">org/apache/logging/log4j/io/LoggerInputStream.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.LoggerReader.java">org/apache/logging/log4j/io/LoggerReader.java</a>
                 </td>
                 <td>
@@ -60,49 +158,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.package-info.java">org/apache/logging/log4j/io/package-info.java</a>
-                </td>
-                <td>
-                  1
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.LoggerBufferedInputStream.java">org/apache/logging/log4j/io/LoggerBufferedInputStream.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.LoggerPrintStream.java">org/apache/logging/log4j/io/LoggerPrintStream.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.LoggerOutputStream.java">org/apache/logging/log4j/io/LoggerOutputStream.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.LoggerPrintWriter.java">org/apache/logging/log4j/io/LoggerPrintWriter.java</a>
                 </td>
                 <td>
                   0
@@ -130,7 +186,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.LoggerInputStream.java">org/apache/logging/log4j/io/LoggerInputStream.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.LoggerPrintStream.java">org/apache/logging/log4j/io/LoggerPrintStream.java</a>
                 </td>
                 <td>
                   0
@@ -140,62 +196,6 @@ under the License.
                 </td>
                 <td>
                   1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.LoggerFilterOutputStream.java">org/apache/logging/log4j/io/LoggerFilterOutputStream.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.LoggerBufferedReader.java">org/apache/logging/log4j/io/LoggerBufferedReader.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.IoBuilder.java">org/apache/logging/log4j/io/IoBuilder.java</a>
-                </td>
-                <td>
-                  1
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  12
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.ByteStreamLogger.java">org/apache/logging/log4j/io/ByteStreamLogger.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  5
                 </td>
               </tr>
                           <tr>
@@ -214,7 +214,161 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.LoggerPrintWriter.java">org/apache/logging/log4j/io/LoggerPrintWriter.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.internal.InternalBufferedInputStream.java">org/apache/logging/log4j/io/internal/InternalBufferedInputStream.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.ByteStreamLogger.java">org/apache/logging/log4j/io/ByteStreamLogger.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.internal.InternalInputStream.java">org/apache/logging/log4j/io/internal/InternalInputStream.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.internal.InternalWriter.java">org/apache/logging/log4j/io/internal/InternalWriter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.internal.InternalFilterWriter.java">org/apache/logging/log4j/io/internal/InternalFilterWriter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.LoggerOutputStream.java">org/apache/logging/log4j/io/LoggerOutputStream.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.package-info.java">org/apache/logging/log4j/io/package-info.java</a>
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.internal.InternalBufferedReader.java">org/apache/logging/log4j/io/internal/InternalBufferedReader.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.internal.InternalPrintStream.java">org/apache/logging/log4j/io/internal/InternalPrintStream.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.LoggerBufferedInputStream.java">org/apache/logging/log4j/io/LoggerBufferedInputStream.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.LoggerBufferedReader.java">org/apache/logging/log4j/io/LoggerBufferedReader.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.internal.InternalLoggerReader.java">org/apache/logging/log4j/io/internal/InternalLoggerReader.java</a>
                 </td>
                 <td>
                   0
@@ -238,6 +392,20 @@ under the License.
                 </td>
                 <td>
                   1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-iostreams//checkstyle.html#org.apache.logging.log4j.io.internal.InternalOutputStream.java">org/apache/logging/log4j/io/internal/InternalOutputStream.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
               </tr>
                       </tbody>

@@ -559,9 +559,9 @@
 <a class="jxr_linenumber" name="L551" href="#L551">551</a>         }
 <a class="jxr_linenumber" name="L552" href="#L552">552</a> 
 <a class="jxr_linenumber" name="L553" href="#L553">553</a>         <strong class="jxr_keyword">private</strong> <strong class="jxr_keyword">boolean</strong> useAnsiEscapeCodes() {
-<a class="jxr_linenumber" name="L554" href="#L554">554</a>             PropertiesUtil propertiesUtil = PropertiesUtil.getProperties();
-<a class="jxr_linenumber" name="L555" href="#L555">555</a>             <strong class="jxr_keyword">boolean</strong> isPlatformSupportsAnsi = !propertiesUtil.isOsWindows();
-<a class="jxr_linenumber" name="L556" href="#L556">556</a>             <strong class="jxr_keyword">boolean</strong> isJansiRequested = !propertiesUtil.getBooleanProperty(<span class="jxr_string">"log4j.skipJansi"</span>, <strong class="jxr_keyword">true</strong>);
+<a class="jxr_linenumber" name="L554" href="#L554">554</a>             <strong class="jxr_keyword">final</strong> PropertiesUtil propertiesUtil = PropertiesUtil.getProperties();
+<a class="jxr_linenumber" name="L555" href="#L555">555</a>             <strong class="jxr_keyword">final</strong> <strong class="jxr_keyword">boolean</strong> isPlatformSupportsAnsi = !propertiesUtil.isOsWindows();
+<a class="jxr_linenumber" name="L556" href="#L556">556</a>             <strong class="jxr_keyword">final</strong> <strong class="jxr_keyword">boolean</strong> isJansiRequested = !propertiesUtil.getBooleanProperty(<span class="jxr_string">"log4j.skipJansi"</span>, <strong class="jxr_keyword">true</strong>);
 <a class="jxr_linenumber" name="L557" href="#L557">557</a>             <strong class="jxr_keyword">return</strong> isPlatformSupportsAnsi || isJansiRequested;
 <a class="jxr_linenumber" name="L558" href="#L558">558</a>         }
 <a class="jxr_linenumber" name="L559" href="#L559">559</a> 
@@ -676,6 +676,6 @@
 <a class="jxr_linenumber" name="L668" href="#L668">668</a> }
 </pre>
 <hr/>
-<div id="footer">Copyright &#169; 1999&#x2013;2018 <a href="https://www.apache.org/">The Apache Software Foundation</a>. All rights reserved.</div>
+<div id="footer">Copyright &#169; 1999&#x2013;2019 <a href="https://www.apache.org/">The Apache Software Foundation</a>. All rights reserved.</div>
 </body>
 </html>

@@ -56,21 +56,21 @@
 <a class="jxr_linenumber" name="L48" href="#L48">48</a>  <em class="jxr_javadoccomment">     */</em>
 <a class="jxr_linenumber" name="L49" href="#L49">49</a>      <strong class="jxr_keyword">public</strong> <strong class="jxr_keyword">static</strong> <strong class="jxr_keyword">class</strong> <a href="../../../../../../org/apache/logging/log4j/core/layout/YamlLayout.html">Builder</a> <strong class="jxr_keyword">implements</strong> org.apache.logging.log4j.core.util.Builder&lt;ScriptPatternSelector&gt; {
 <a class="jxr_linenumber" name="L50" href="#L50">50</a>  
-<a class="jxr_linenumber" name="L51" href="#L51">51</a>          @PluginElement(<span class="jxr_string">"Script"</span>) 
+<a class="jxr_linenumber" name="L51" href="#L51">51</a>          @PluginElement(<span class="jxr_string">"Script"</span>)
 <a class="jxr_linenumber" name="L52" href="#L52">52</a>          <strong class="jxr_keyword">private</strong> <a href="../../../../../../org/apache/logging/log4j/core/script/AbstractScript.html">AbstractScript</a> script;
-<a class="jxr_linenumber" name="L53" href="#L53">53</a>          
-<a class="jxr_linenumber" name="L54" href="#L54">54</a>          @PluginElement(<span class="jxr_string">"PatternMatch"</span>) 
+<a class="jxr_linenumber" name="L53" href="#L53">53</a>  
+<a class="jxr_linenumber" name="L54" href="#L54">54</a>          @PluginElement(<span class="jxr_string">"PatternMatch"</span>)
 <a class="jxr_linenumber" name="L55" href="#L55">55</a>          <strong class="jxr_keyword">private</strong> <a href="../../../../../../org/apache/logging/log4j/core/layout/PatternMatch.html">PatternMatch</a>[] properties;
-<a class="jxr_linenumber" name="L56" href="#L56">56</a>          
-<a class="jxr_linenumber" name="L57" href="#L57">57</a>          @PluginBuilderAttribute(<span class="jxr_string">"defaultPattern"</span>) 
+<a class="jxr_linenumber" name="L56" href="#L56">56</a>  
+<a class="jxr_linenumber" name="L57" href="#L57">57</a>          @PluginBuilderAttribute(<span class="jxr_string">"defaultPattern"</span>)
 <a class="jxr_linenumber" name="L58" href="#L58">58</a>          <strong class="jxr_keyword">private</strong> String defaultPattern;
-<a class="jxr_linenumber" name="L59" href="#L59">59</a>          
-<a class="jxr_linenumber" name="L60" href="#L60">60</a>          @PluginBuilderAttribute(<span class="jxr_string">"alwaysWriteExceptions"</span>) 
+<a class="jxr_linenumber" name="L59" href="#L59">59</a>  
+<a class="jxr_linenumber" name="L60" href="#L60">60</a>          @PluginBuilderAttribute(<span class="jxr_string">"alwaysWriteExceptions"</span>)
 <a class="jxr_linenumber" name="L61" href="#L61">61</a>          <strong class="jxr_keyword">private</strong> <strong class="jxr_keyword">boolean</strong> alwaysWriteExceptions = <strong class="jxr_keyword">true</strong>;
-<a class="jxr_linenumber" name="L62" href="#L62">62</a>          
+<a class="jxr_linenumber" name="L62" href="#L62">62</a>  
 <a class="jxr_linenumber" name="L63" href="#L63">63</a>          @PluginBuilderAttribute(<span class="jxr_string">"disableAnsi"</span>)
 <a class="jxr_linenumber" name="L64" href="#L64">64</a>          <strong class="jxr_keyword">private</strong> <strong class="jxr_keyword">boolean</strong> disableAnsi;
-<a class="jxr_linenumber" name="L65" href="#L65">65</a>          
+<a class="jxr_linenumber" name="L65" href="#L65">65</a>  
 <a class="jxr_linenumber" name="L66" href="#L66">66</a>          @PluginBuilderAttribute(<span class="jxr_string">"noConsoleNoAnsi"</span>)
 <a class="jxr_linenumber" name="L67" href="#L67">67</a>          <strong class="jxr_keyword">private</strong> <strong class="jxr_keyword">boolean</strong> noConsoleNoAnsi;
 <a class="jxr_linenumber" name="L68" href="#L68">68</a>  
@@ -139,7 +139,7 @@
 <a class="jxr_linenumber" name="L131" href="#L131">131</a>             <strong class="jxr_keyword">return</strong> <strong class="jxr_keyword">this</strong>;
 <a class="jxr_linenumber" name="L132" href="#L132">132</a>         }
 <a class="jxr_linenumber" name="L133" href="#L133">133</a>     }
-<a class="jxr_linenumber" name="L134" href="#L134">134</a>     
+<a class="jxr_linenumber" name="L134" href="#L134">134</a> 
 <a class="jxr_linenumber" name="L135" href="#L135">135</a>     <strong class="jxr_keyword">private</strong> <strong class="jxr_keyword">final</strong> Map&lt;String, <a href="../../../../../../org/apache/logging/log4j/core/pattern/PatternFormatter.html">PatternFormatter</a>[]&gt; formatterMap = <strong class="jxr_keyword">new</strong> HashMap&lt;&gt;();
 <a class="jxr_linenumber" name="L136" href="#L136">136</a> 
 <a class="jxr_linenumber" name="L137" href="#L137">137</a>     <strong class="jxr_keyword">private</strong> <strong class="jxr_keyword">final</strong> Map&lt;String, String&gt; patternMap = <strong class="jxr_keyword">new</strong> HashMap&lt;&gt;();
@@ -212,7 +212,7 @@
 <a class="jxr_linenumber" name="L204" href="#L204">204</a> 
 <a class="jxr_linenumber" name="L205" href="#L205">205</a>     <em class="jxr_javadoccomment">/**</em>
 <a class="jxr_linenumber" name="L206" href="#L206">206</a> <em class="jxr_javadoccomment">     * Deprecated, use {@link #newBuilder()} instead.</em>
-<a class="jxr_linenumber" name="L207" href="#L207">207</a> <em class="jxr_javadoccomment">     * </em>
+<a class="jxr_linenumber" name="L207" href="#L207">207</a> <em class="jxr_javadoccomment">     *</em>
 <a class="jxr_linenumber" name="L208" href="#L208">208</a> <em class="jxr_javadoccomment">     * @param script</em>
 <a class="jxr_linenumber" name="L209" href="#L209">209</a> <em class="jxr_javadoccomment">     * @param properties</em>
 <a class="jxr_linenumber" name="L210" href="#L210">210</a> <em class="jxr_javadoccomment">     * @param defaultPattern</em>
@@ -260,6 +260,6 @@
 <a class="jxr_linenumber" name="L252" href="#L252">252</a> }
 </pre>
 <hr/>
-<div id="footer">Copyright &#169; 1999&#x2013;2018 <a href="https://www.apache.org/">The Apache Software Foundation</a>. All rights reserved.</div>
+<div id="footer">Copyright &#169; 1999&#x2013;2019 <a href="https://www.apache.org/">The Apache Software Foundation</a>. All rights reserved.</div>
 </body>
 </html>
