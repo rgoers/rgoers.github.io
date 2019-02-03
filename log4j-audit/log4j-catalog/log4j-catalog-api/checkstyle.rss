@@ -25,8 +25,8 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2016 - 2018 Apache Software Foundation</copyright>
     <item>
-      <title>File: 49,
-             Errors: 148,
+      <title>File: 44,
+             Errors: 144,
              Warnings: 0,
              Infos: 0
       </title>
@@ -44,6 +44,20 @@ under the License.
             </tr>
           </thead>
           <tbody>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.exception.CatalogException.java">org/apache/logging/log4j/catalog/api/exception/CatalogException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
                           <tr>
                 <td>
                   <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.dao.ClassPathCatalogReader.java">org/apache/logging/log4j/catalog/api/dao/ClassPathCatalogReader.java</a>
@@ -74,6 +88,34 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.plugins.ConstraintTypeDeserializer.java">org/apache/logging/log4j/catalog/api/plugins/ConstraintTypeDeserializer.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.util.CatalogEventFilter.java">org/apache/logging/log4j/catalog/api/util/CatalogEventFilter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.exception.CatalogNotFoundException.java">org/apache/logging/log4j/catalog/api/exception/CatalogNotFoundException.java</a>
                 </td>
                 <td>
@@ -84,6 +126,34 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.plugins.MaxLengthConstraint.java">org/apache/logging/log4j/catalog/api/plugins/MaxLengthConstraint.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.ListResponse.java">org/apache/logging/log4j/catalog/api/ListResponse.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
               </tr>
                           <tr>
@@ -116,7 +186,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.exception.ConstraintValidationException.java">org/apache/logging/log4j/catalog/api/exception/ConstraintValidationException.java</a>
+                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.exception.CatalogReadException.java">org/apache/logging/log4j/catalog/api/exception/CatalogReadException.java</a>
                 </td>
                 <td>
                   0
@@ -130,7 +200,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.exception.CatalogReadException.java">org/apache/logging/log4j/catalog/api/exception/CatalogReadException.java</a>
+                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.constant.Constants.java">org/apache/logging/log4j/catalog/api/constant/Constants.java</a>
                 </td>
                 <td>
                   0
@@ -139,7 +209,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  3
                 </td>
               </tr>
                           <tr>
@@ -168,6 +238,20 @@ under the License.
                 </td>
                 <td>
                   3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.plugins.MinLengthConstraint.java">org/apache/logging/log4j/catalog/api/plugins/MinLengthConstraint.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
                 </td>
               </tr>
                           <tr>
@@ -214,6 +298,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.dao.AbstractCatalogReader.java">org/apache/logging/log4j/catalog/api/dao/AbstractCatalogReader.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.plugins.PatternConstraint.java">org/apache/logging/log4j/catalog/api/plugins/PatternConstraint.java</a>
                 </td>
                 <td>
@@ -228,6 +326,34 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.annotation.JdbcUrl.java">org/apache/logging/log4j/catalog/api/annotation/JdbcUrl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.util.ProfileUtil.java">org/apache/logging/log4j/catalog/api/util/ProfileUtil.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.dao.CatalogDao.java">org/apache/logging/log4j/catalog/api/dao/CatalogDao.java</a>
                 </td>
                 <td>
@@ -237,26 +363,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  5
+                  1
                 </td>
               </tr>
                           <tr>
                 <td>
                   <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.exception.NameNotFoundException.java">org/apache/logging/log4j/catalog/api/exception/NameNotFoundException.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.exception.DuplicateNameException.java">org/apache/logging/log4j/catalog/api/exception/DuplicateNameException.java</a>
                 </td>
                 <td>
                   0
@@ -294,258 +406,6 @@ under the License.
                 </td>
                 <td>
                   4
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.exception.InvalidEnvironmentException.java">org/apache/logging/log4j/catalog/api/exception/InvalidEnvironmentException.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.dao.FileCatalogReader.java">org/apache/logging/log4j/catalog/api/dao/FileCatalogReader.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  3
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.plugins.MaxValueConstraint.java">org/apache/logging/log4j/catalog/api/plugins/MaxValueConstraint.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  4
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.Product.java">org/apache/logging/log4j/catalog/api/Product.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  4
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.plugins.ConstraintTypeSerializer.java">org/apache/logging/log4j/catalog/api/plugins/ConstraintTypeSerializer.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  8
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.Attribute.java">org/apache/logging/log4j/catalog/api/Attribute.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  11
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.exception.CatalogModificationException.java">org/apache/logging/log4j/catalog/api/exception/CatalogModificationException.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.exception.CatalogException.java">org/apache/logging/log4j/catalog/api/exception/CatalogException.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.plugins.ConstraintTypeDeserializer.java">org/apache/logging/log4j/catalog/api/plugins/ConstraintTypeDeserializer.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  3
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.util.CatalogEventFilter.java">org/apache/logging/log4j/catalog/api/util/CatalogEventFilter.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  4
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.plugins.MaxLengthConstraint.java">org/apache/logging/log4j/catalog/api/plugins/MaxLengthConstraint.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  4
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.ListResponse.java">org/apache/logging/log4j/catalog/api/ListResponse.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.constant.Constants.java">org/apache/logging/log4j/catalog/api/constant/Constants.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  3
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.plugins.MinLengthConstraint.java">org/apache/logging/log4j/catalog/api/plugins/MinLengthConstraint.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  4
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.dao.AbstractCatalogReader.java">org/apache/logging/log4j/catalog/api/dao/AbstractCatalogReader.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  4
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.annotation.JdbcUrl.java">org/apache/logging/log4j/catalog/api/annotation/JdbcUrl.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.util.ProfileUtil.java">org/apache/logging/log4j/catalog/api/util/ProfileUtil.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.exception.InvalidSiteException.java">org/apache/logging/log4j/catalog/api/exception/InvalidSiteException.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
                 </td>
               </tr>
                           <tr>
@@ -634,7 +494,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.exception.CatalogWriteException.java">org/apache/logging/log4j/catalog/api/exception/CatalogWriteException.java</a>
+                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.dao.FileCatalogReader.java">org/apache/logging/log4j/catalog/api/dao/FileCatalogReader.java</a>
                 </td>
                 <td>
                   0
@@ -643,7 +503,63 @@ under the License.
                   0
                 </td>
                 <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.plugins.MaxValueConstraint.java">org/apache/logging/log4j/catalog/api/plugins/MaxValueConstraint.java</a>
+                </td>
+                <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.Product.java">org/apache/logging/log4j/catalog/api/Product.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.plugins.ConstraintTypeSerializer.java">org/apache/logging/log4j/catalog/api/plugins/ConstraintTypeSerializer.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.Attribute.java">org/apache/logging/log4j/catalog/api/Attribute.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
                 </td>
               </tr>
                           <tr>
@@ -700,6 +616,20 @@ under the License.
                 </td>
                 <td>
                   1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.api.exception.CatalogModificationException.java">org/apache/logging/log4j/catalog/api/exception/CatalogModificationException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
               </tr>
                           <tr>

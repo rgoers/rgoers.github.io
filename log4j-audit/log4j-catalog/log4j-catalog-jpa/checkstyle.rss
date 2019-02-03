@@ -25,8 +25,8 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2016 - 2018 Apache Software Foundation</copyright>
     <item>
-      <title>File: 51,
-             Errors: 123,
+      <title>File: 49,
+             Errors: 122,
              Warnings: 0,
              Infos: 0
       </title>
@@ -186,20 +186,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.jpa.exception.InvalidEnvironmentException.java">org/apache/logging/log4j/catalog/jpa/exception/InvalidEnvironmentException.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.jpa.config.PostgresqlDataSourceConfig.java">org/apache/logging/log4j/catalog/jpa/config/PostgresqlDataSourceConfig.java</a>
                 </td>
                 <td>
@@ -210,20 +196,6 @@ under the License.
                 </td>
                 <td>
                   2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.apache.logging.log4j.catalog.jpa.exception.InvalidSiteException.java">org/apache/logging/log4j/catalog/jpa/exception/InvalidSiteException.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
                 </td>
               </tr>
                           <tr>
