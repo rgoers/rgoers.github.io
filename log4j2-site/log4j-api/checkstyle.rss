@@ -25,8 +25,8 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;1999 - 2019 The Apache Software Foundation</copyright>
     <item>
-      <title>File: 130,
-             Errors: 268,
+      <title>File: 66,
+             Errors: 304,
              Warnings: 0,
              Infos: 3
       </title>
@@ -60,7 +60,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.EventLogger.java">org/apache/logging/log4j/EventLogger.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.IndexedReadOnlyStringMap.java">org/apache/logging/log4j/util/IndexedReadOnlyStringMap.java</a>
                 </td>
                 <td>
                   0
@@ -69,21 +69,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.FilteredObjectInputStream.java">org/apache/logging/log4j/util/FilteredObjectInputStream.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
+                  1
                 </td>
               </tr>
                           <tr>
@@ -102,973 +88,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.LoggingException.java">org/apache/logging/log4j/LoggingException.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.ExtendedLogger.java">org/apache/logging/log4j/spi/ExtendedLogger.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.MessageCollectionMessage.java">org/apache/logging/log4j/message/MessageCollectionMessage.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.StringFormatterMessageFactory.java">org/apache/logging/log4j/message/StringFormatterMessageFactory.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  7
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.MessageFactory2Adapter.java">org/apache/logging/log4j/spi/MessageFactory2Adapter.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.ReusableSimpleMessage.java">org/apache/logging/log4j/message/ReusableSimpleMessage.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.simple.SimpleLoggerContextFactory.java">org/apache/logging/log4j/simple/SimpleLoggerContextFactory.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.EntryMessage.java">org/apache/logging/log4j/message/EntryMessage.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.MessageFormatMessage.java">org/apache/logging/log4j/message/MessageFormatMessage.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.AbstractLogger.java">org/apache/logging/log4j/spi/AbstractLogger.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  13
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.ParameterizedMessageFactory.java">org/apache/logging/log4j/message/ParameterizedMessageFactory.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  7
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.ParameterizedNoReferenceMessageFactory.java">org/apache/logging/log4j/message/ParameterizedNoReferenceMessageFactory.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.LowLevelLogUtil.java">org/apache/logging/log4j/util/LowLevelLogUtil.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.ReadOnlyStringMap.java">org/apache/logging/log4j/util/ReadOnlyStringMap.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.ExtendedLoggerWrapper.java">org/apache/logging/log4j/spi/ExtendedLoggerWrapper.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.BiConsumer.java">org/apache/logging/log4j/util/BiConsumer.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.ThreadContext.java">org/apache/logging/log4j/ThreadContext.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.LoggerContextFactory.java">org/apache/logging/log4j/spi/LoggerContextFactory.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.Provider.java">org/apache/logging/log4j/spi/Provider.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  4
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.package-info.java">org/apache/logging/log4j/util/package-info.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.AsynchronouslyFormattable.java">org/apache/logging/log4j/message/AsynchronouslyFormattable.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.SortedArrayStringMap.java">org/apache/logging/log4j/util/SortedArrayStringMap.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  9
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.Unbox.java">org/apache/logging/log4j/util/Unbox.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  4
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.status.package-info.java">org/apache/logging/log4j/status/package-info.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.StringBuilders.java">org/apache/logging/log4j/util/StringBuilders.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.FormattedMessage.java">org/apache/logging/log4j/message/FormattedMessage.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  5
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.Message.java">org/apache/logging/log4j/message/Message.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.MultiformatMessage.java">org/apache/logging/log4j/message/MultiformatMessage.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.EnglishEnums.java">org/apache/logging/log4j/util/EnglishEnums.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.simple.package-info.java">org/apache/logging/log4j/simple/package-info.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.CopyOnWrite.java">org/apache/logging/log4j/spi/CopyOnWrite.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.ObjectArrayMessage.java">org/apache/logging/log4j/message/ObjectArrayMessage.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.StringMapMessage.java">org/apache/logging/log4j/message/StringMapMessage.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.DefaultFlowMessageFactory.java">org/apache/logging/log4j/message/DefaultFlowMessageFactory.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  6
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.CopyOnWriteSortedArrayThreadContextMap.java">org/apache/logging/log4j/spi/CopyOnWriteSortedArrayThreadContextMap.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  4
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.status.StatusData.java">org/apache/logging/log4j/status/StatusData.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.ThreadContextMapFactory.java">org/apache/logging/log4j/spi/ThreadContextMapFactory.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  3
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.StructuredDataMessage.java">org/apache/logging/log4j/message/StructuredDataMessage.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.status.StatusConsoleListener.java">org/apache/logging/log4j/status/StatusConsoleListener.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.MultiFormatStringBuilderFormattable.java">org/apache/logging/log4j/util/MultiFormatStringBuilderFormattable.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.MessageFactory2.java">org/apache/logging/log4j/message/MessageFactory2.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.FlowMessageFactory.java">org/apache/logging/log4j/message/FlowMessageFactory.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.LoggerRegistry.java">org/apache/logging/log4j/spi/LoggerRegistry.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.PropertiesUtil.java">org/apache/logging/log4j/util/PropertiesUtil.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  5
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.Marker.java">org/apache/logging/log4j/Marker.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.AbstractLoggerAdapter.java">org/apache/logging/log4j/spi/AbstractLoggerAdapter.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.SimpleMessage.java">org/apache/logging/log4j/message/SimpleMessage.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  3
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.ThreadInformation.java">org/apache/logging/log4j/message/ThreadInformation.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.Terminable.java">org/apache/logging/log4j/spi/Terminable.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.IndexedStringMap.java">org/apache/logging/log4j/util/IndexedStringMap.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.LocalizedMessage.java">org/apache/logging/log4j/message/LocalizedMessage.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.Level.java">org/apache/logging/log4j/Level.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.LambdaUtil.java">org/apache/logging/log4j/util/LambdaUtil.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.LocalizedMessageFactory.java">org/apache/logging/log4j/message/LocalizedMessageFactory.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.SimpleMessageFactory.java">org/apache/logging/log4j/message/SimpleMessageFactory.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  7
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.GarbageFreeSortedArrayThreadContextMap.java">org/apache/logging/log4j/spi/GarbageFreeSortedArrayThreadContextMap.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  5
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.ThreadContextStack.java">org/apache/logging/log4j/spi/ThreadContextStack.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.PropertiesPropertySource.java">org/apache/logging/log4j/util/PropertiesPropertySource.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.ParameterConsumer.java">org/apache/logging/log4j/message/ParameterConsumer.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.ObjectMessage.java">org/apache/logging/log4j/message/ObjectMessage.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.ReusableObjectMessage.java">org/apache/logging/log4j/message/ReusableObjectMessage.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.SystemPropertiesPropertySource.java">org/apache/logging/log4j/util/SystemPropertiesPropertySource.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.MutableThreadContextStack.java">org/apache/logging/log4j/spi/MutableThreadContextStack.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.package-info.java">org/apache/logging/log4j/message/package-info.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.package-info.java">org/apache/logging/log4j/spi/package-info.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.status.StatusListener.java">org/apache/logging/log4j/status/StatusListener.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.IndexedReadOnlyStringMap.java">org/apache/logging/log4j/util/IndexedReadOnlyStringMap.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.Clearable.java">org/apache/logging/log4j/message/Clearable.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.StackLocator.java">org/apache/logging/log4j/util/StackLocator.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.CleanableThreadContextMap.java">org/apache/logging/log4j/spi/CleanableThreadContextMap.java</a>
                 </td>
                 <td>
                   0
@@ -1096,7 +116,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.ThreadContextMap2.java">org/apache/logging/log4j/spi/ThreadContextMap2.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.StringFormatterMessageFactory.java">org/apache/logging/log4j/message/StringFormatterMessageFactory.java</a>
                 </td>
                 <td>
                   0
@@ -1105,12 +125,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  7
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.ParameterFormatter.java">org/apache/logging/log4j/message/ParameterFormatter.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.ReusableSimpleMessage.java">org/apache/logging/log4j/message/ReusableSimpleMessage.java</a>
                 </td>
                 <td>
                   0
@@ -1119,7 +139,21 @@ under the License.
                   0
                 </td>
                 <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.EntryMessage.java">org/apache/logging/log4j/message/EntryMessage.java</a>
+                </td>
+                <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
                 </td>
               </tr>
                           <tr>
@@ -1134,6 +168,20 @@ under the License.
                 </td>
                 <td>
                   1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.AbstractLogger.java">org/apache/logging/log4j/spi/AbstractLogger.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  13
                 </td>
               </tr>
                           <tr>
@@ -1166,6 +214,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.ParameterizedMessageFactory.java">org/apache/logging/log4j/message/ParameterizedMessageFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.ReusableParameterizedMessage.java">org/apache/logging/log4j/message/ReusableParameterizedMessage.java</a>
                 </td>
                 <td>
@@ -1180,7 +242,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.ReusableMessageFactory.java">org/apache/logging/log4j/message/ReusableMessageFactory.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.LowLevelLogUtil.java">org/apache/logging/log4j/util/LowLevelLogUtil.java</a>
                 </td>
                 <td>
                   0
@@ -1189,12 +251,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  2
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.PropertyFilePropertySource.java">org/apache/logging/log4j/util/PropertyFilePropertySource.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.ParameterizedNoReferenceMessageFactory.java">org/apache/logging/log4j/message/ParameterizedNoReferenceMessageFactory.java</a>
                 </td>
                 <td>
                   0
@@ -1203,12 +265,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  2
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.BasicThreadInformation.java">org/apache/logging/log4j/message/BasicThreadInformation.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.ReadOnlyStringMap.java">org/apache/logging/log4j/util/ReadOnlyStringMap.java</a>
                 </td>
                 <td>
                   0
@@ -1217,12 +279,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  1
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.ThreadContextMap.java">org/apache/logging/log4j/spi/ThreadContextMap.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.ThreadContext.java">org/apache/logging/log4j/ThreadContext.java</a>
                 </td>
                 <td>
                   0
@@ -1231,12 +293,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  1
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.ReadOnlyThreadContextMap.java">org/apache/logging/log4j/spi/ReadOnlyThreadContextMap.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.Provider.java">org/apache/logging/log4j/spi/Provider.java</a>
                 </td>
                 <td>
                   0
@@ -1245,12 +307,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  4
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.LoggerNameAwareMessage.java">org/apache/logging/log4j/message/LoggerNameAwareMessage.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.AsynchronouslyFormattable.java">org/apache/logging/log4j/message/AsynchronouslyFormattable.java</a>
                 </td>
                 <td>
                   0
@@ -1259,12 +321,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  1
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.TriConsumer.java">org/apache/logging/log4j/util/TriConsumer.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.Timer.java">org/apache/logging/log4j/util/Timer.java</a>
                 </td>
                 <td>
                   0
@@ -1273,12 +335,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  34
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.simple.SimpleLogger.java">org/apache/logging/log4j/simple/SimpleLogger.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.SortedArrayStringMap.java">org/apache/logging/log4j/util/SortedArrayStringMap.java</a>
                 </td>
                 <td>
                   0
@@ -1287,12 +349,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  9
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.StandardLevel.java">org/apache/logging/log4j/spi/StandardLevel.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.Unbox.java">org/apache/logging/log4j/util/Unbox.java</a>
                 </td>
                 <td>
                   0
@@ -1301,7 +363,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  4
                 </td>
               </tr>
                           <tr>
@@ -1320,7 +382,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.MessageSupplier.java">org/apache/logging/log4j/util/MessageSupplier.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.Strings.java">org/apache/logging/log4j/util/Strings.java</a>
                 </td>
                 <td>
                   0
@@ -1329,7 +391,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  2
                 </td>
               </tr>
                           <tr>
@@ -1362,20 +424,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.Strings.java">org/apache/logging/log4j/util/Strings.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.FormattedMessageFactory.java">org/apache/logging/log4j/message/FormattedMessageFactory.java</a>
                 </td>
                 <td>
@@ -1390,7 +438,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.NoOpThreadContextMap.java">org/apache/logging/log4j/spi/NoOpThreadContextMap.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.StringBuilders.java">org/apache/logging/log4j/util/StringBuilders.java</a>
                 </td>
                 <td>
                   0
@@ -1399,7 +447,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  2
                 </td>
               </tr>
                           <tr>
@@ -1418,20 +466,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.DefaultThreadContextStack.java">org/apache/logging/log4j/spi/DefaultThreadContextStack.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.EnvironmentPropertySource.java">org/apache/logging/log4j/util/EnvironmentPropertySource.java</a>
                 </td>
                 <td>
@@ -1446,7 +480,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.StringBuilderFormattable.java">org/apache/logging/log4j/util/StringBuilderFormattable.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.Message.java">org/apache/logging/log4j/message/Message.java</a>
                 </td>
                 <td>
                   0
@@ -1455,12 +489,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  2
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.ReusableMessage.java">org/apache/logging/log4j/message/ReusableMessage.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.FormattedMessage.java">org/apache/logging/log4j/message/FormattedMessage.java</a>
                 </td>
                 <td>
                   0
@@ -1469,7 +503,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  5
                 </td>
               </tr>
                           <tr>
@@ -1544,7 +578,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.status.StatusLogger.java">org/apache/logging/log4j/status/StatusLogger.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.DefaultFlowMessageFactory.java">org/apache/logging/log4j/message/DefaultFlowMessageFactory.java</a>
                 </td>
                 <td>
                   0
@@ -1553,7 +587,35 @@ under the License.
                   0
                 </td>
                 <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.CopyOnWriteSortedArrayThreadContextMap.java">org/apache/logging/log4j/spi/CopyOnWriteSortedArrayThreadContextMap.java</a>
+                </td>
+                <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.ThreadContextMapFactory.java">org/apache/logging/log4j/spi/ThreadContextMapFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
                 </td>
               </tr>
                           <tr>
@@ -1600,7 +662,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.Supplier.java">org/apache/logging/log4j/util/Supplier.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.LoggerRegistry.java">org/apache/logging/log4j/spi/LoggerRegistry.java</a>
                 </td>
                 <td>
                   0
@@ -1609,12 +671,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  1
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.package-info.java">org/apache/logging/log4j/package-info.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.PropertiesUtil.java">org/apache/logging/log4j/util/PropertiesUtil.java</a>
                 </td>
                 <td>
                   0
@@ -1623,12 +685,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  5
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.MapMessage.java">org/apache/logging/log4j/message/MapMessage.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.Base64Util.java">org/apache/logging/log4j/util/Base64Util.java</a>
                 </td>
                 <td>
                   0
@@ -1637,7 +699,21 @@ under the License.
                   0
                 </td>
                 <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.SimpleMessage.java">org/apache/logging/log4j/message/SimpleMessage.java</a>
+                </td>
+                <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
                 </td>
               </tr>
                           <tr>
@@ -1656,20 +732,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#Log4j-charsets.properties">Log4j-charsets.properties</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.Chars.java">org/apache/logging/log4j/util/Chars.java</a>
                 </td>
                 <td>
@@ -1684,7 +746,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.LoggerContext.java">org/apache/logging/log4j/spi/LoggerContext.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.LocalizedMessage.java">org/apache/logging/log4j/message/LocalizedMessage.java</a>
                 </td>
                 <td>
                   0
@@ -1693,12 +755,26 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  2
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.MessageFactory.java">org/apache/logging/log4j/message/MessageFactory.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.LambdaUtil.java">org/apache/logging/log4j/util/LambdaUtil.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.Level.java">org/apache/logging/log4j/Level.java</a>
                 </td>
                 <td>
                   0
@@ -1726,6 +802,34 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.LocalizedMessageFactory.java">org/apache/logging/log4j/message/LocalizedMessageFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.SimpleMessageFactory.java">org/apache/logging/log4j/message/SimpleMessageFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.ProcessIdUtil.java">org/apache/logging/log4j/util/ProcessIdUtil.java</a>
                 </td>
                 <td>
@@ -1736,6 +840,34 @@ under the License.
                 </td>
                 <td>
                   3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.GarbageFreeSortedArrayThreadContextMap.java">org/apache/logging/log4j/spi/GarbageFreeSortedArrayThreadContextMap.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.ParameterConsumer.java">org/apache/logging/log4j/message/ParameterConsumer.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
                 </td>
               </tr>
                           <tr>
@@ -1782,7 +914,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.LoggerAdapter.java">org/apache/logging/log4j/spi/LoggerAdapter.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.ReusableObjectMessage.java">org/apache/logging/log4j/message/ReusableObjectMessage.java</a>
                 </td>
                 <td>
                   0
@@ -1791,12 +923,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  1
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.StringFormattedMessage.java">org/apache/logging/log4j/message/StringFormattedMessage.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.SystemPropertiesPropertySource.java">org/apache/logging/log4j/util/SystemPropertiesPropertySource.java</a>
                 </td>
                 <td>
                   0
@@ -1805,12 +937,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  1
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.StructuredDataCollectionMessage.java">org/apache/logging/log4j/message/StructuredDataCollectionMessage.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.spi.MutableThreadContextStack.java">org/apache/logging/log4j/spi/MutableThreadContextStack.java</a>
                 </td>
                 <td>
                   0
@@ -1819,35 +951,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.ParameterVisitable.java">org/apache/logging/log4j/message/ParameterVisitable.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.TimestampMessage.java">org/apache/logging/log4j/message/TimestampMessage.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
+                  2
                 </td>
               </tr>
                           <tr>
