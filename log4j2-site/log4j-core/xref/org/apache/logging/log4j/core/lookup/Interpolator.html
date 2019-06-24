@@ -81,7 +81,7 @@
 <a class="jxr_linenumber" name="L73" href="#L73">73</a>          <strong class="jxr_keyword">for</strong> (<strong class="jxr_keyword">final</strong> Map.Entry&lt;String, PluginType&lt;?&gt;&gt; entry : plugins.entrySet()) {
 <a class="jxr_linenumber" name="L74" href="#L74">74</a>              <strong class="jxr_keyword">try</strong> {
 <a class="jxr_linenumber" name="L75" href="#L75">75</a>                  <strong class="jxr_keyword">final</strong> Class&lt;? <strong class="jxr_keyword">extends</strong> StrLookup&gt; clazz = entry.getValue().getPluginClass().asSubclass(StrLookup.<strong class="jxr_keyword">class</strong>);
-<a class="jxr_linenumber" name="L76" href="#L76">76</a>                  strLookupMap.put(entry.getKey(), ReflectionUtil.instantiate(clazz));
+<a class="jxr_linenumber" name="L76" href="#L76">76</a>                  strLookupMap.put(entry.getKey().toLowerCase(), ReflectionUtil.instantiate(clazz));
 <a class="jxr_linenumber" name="L77" href="#L77">77</a>              } <strong class="jxr_keyword">catch</strong> (<strong class="jxr_keyword">final</strong> Throwable t) {
 <a class="jxr_linenumber" name="L78" href="#L78">78</a>                  handleError(entry.getKey(), t);
 <a class="jxr_linenumber" name="L79" href="#L79">79</a>              }
