@@ -25,7 +25,7 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;1999 - 2019 The Apache Software Foundation</copyright>
     <item>
-      <title>File: 101,
+      <title>File: 69,
              Errors: 362,
              Warnings: 0,
              Infos: 0
@@ -44,6 +44,20 @@ under the License.
             </tr>
           </thead>
           <tbody>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.or.jms.MessageRenderer.java">org/apache/log4j/or/jms/MessageRenderer.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  9
+                </td>
+              </tr>
                           <tr>
                 <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.or.ObjectRenderer.java">org/apache/log4j/or/ObjectRenderer.java</a>
@@ -116,6 +130,62 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.spi.ThrowableInformation.java">org/apache/log4j/spi/ThrowableInformation.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.rewrite.RewritePolicy.java">org/apache/log4j/rewrite/RewritePolicy.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.appender.AppenderBuilder.java">org/apache/log4j/builders/appender/AppenderBuilder.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.xml.UnrecognizedElementHandler.java">org/apache/log4j/xml/UnrecognizedElementHandler.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.bridge.AppenderAdapter.java">org/apache/log4j/bridge/AppenderAdapter.java</a>
                 </td>
                 <td>
@@ -130,7 +200,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.spi.OptionHandler.java">org/apache/log4j/spi/OptionHandler.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.filter.LevelRangeFilterBuilder.java">org/apache/log4j/builders/filter/LevelRangeFilterBuilder.java</a>
                 </td>
                 <td>
                   0
@@ -139,12 +209,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  2
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.layout.LayoutBuilder.java">org/apache/log4j/builders/layout/LayoutBuilder.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.layout.HtmlLayoutBuilder.java">org/apache/log4j/builders/layout/HtmlLayoutBuilder.java</a>
                 </td>
                 <td>
                   0
@@ -153,12 +223,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  2
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.spi.LoggerFactory.java">org/apache/log4j/spi/LoggerFactory.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.pattern.Log4j1NdcPatternConverter.java">org/apache/log4j/pattern/Log4j1NdcPatternConverter.java</a>
                 </td>
                 <td>
                   0
@@ -167,7 +237,35 @@ under the License.
                   0
                 </td>
                 <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.layout.XmlLayoutBuilder.java">org/apache/log4j/builders/layout/XmlLayoutBuilder.java</a>
+                </td>
+                <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.layout.Log4j1XmlLayout.java">org/apache/log4j/layout/Log4j1XmlLayout.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
                 </td>
               </tr>
                           <tr>
@@ -209,12 +307,26 @@ under the License.
                   0
                 </td>
                 <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.SimpleLayout.java">org/apache/log4j/SimpleLayout.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
                   3
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.spi.LoggerRepository.java">org/apache/log4j/spi/LoggerRepository.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.config.Log4j1Configuration.java">org/apache/log4j/config/Log4j1Configuration.java</a>
                 </td>
                 <td>
                   0
@@ -223,35 +335,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.config.Log4j1ConfigurationFactory.java">org/apache/log4j/config/Log4j1ConfigurationFactory.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.spi.RepositorySelector.java">org/apache/log4j/spi/RepositorySelector.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
+                  7
                 </td>
               </tr>
                           <tr>
@@ -270,7 +354,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.spi.Configurator.java">org/apache/log4j/spi/Configurator.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.rewrite.MapRewritePolicy.java">org/apache/log4j/rewrite/MapRewritePolicy.java</a>
                 </td>
                 <td>
                   0
@@ -279,7 +363,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  6
+                  2
                 </td>
               </tr>
                           <tr>
@@ -298,7 +382,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.xml.package-info.java">org/apache/log4j/xml/package-info.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.spi.Configurator.java">org/apache/log4j/spi/Configurator.java</a>
                 </td>
                 <td>
                   0
@@ -307,7 +391,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  6
                 </td>
               </tr>
                           <tr>
@@ -322,6 +406,20 @@ under the License.
                 </td>
                 <td>
                   4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.appender.DailyRollingFileAppenderBuilder.java">org/apache/log4j/builders/appender/DailyRollingFileAppenderBuilder.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
                 </td>
               </tr>
                           <tr>
@@ -341,6 +439,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.bridge.LayoutWrapper.java">org/apache/log4j/bridge/LayoutWrapper.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.bridge.RewritePolicyWrapper.java">org/apache/log4j/bridge/RewritePolicyWrapper.java</a>
                 </td>
                 <td>
                   0
@@ -382,7 +494,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.PatternLayout.java">org/apache/log4j/PatternLayout.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.bridge.RewritePolicyAdapter.java">org/apache/log4j/bridge/RewritePolicyAdapter.java</a>
                 </td>
                 <td>
                   0
@@ -391,12 +503,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  1
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.BasicConfigurator.java">org/apache/log4j/BasicConfigurator.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.Category.java">org/apache/log4j/Category.java</a>
                 </td>
                 <td>
                   0
@@ -405,7 +517,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  7
                 </td>
               </tr>
                           <tr>
@@ -438,7 +550,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.bridge.FilterAdapter.java">org/apache/log4j/bridge/FilterAdapter.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.spi.ErrorCode.java">org/apache/log4j/spi/ErrorCode.java</a>
                 </td>
                 <td>
                   0
@@ -447,7 +559,49 @@ under the License.
                   0
                 </td>
                 <td>
+                  16
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.filter.DenyAllFilterBuilder.java">org/apache/log4j/builders/filter/DenyAllFilterBuilder.java</a>
+                </td>
+                <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.rewrite.PropertyRewritePolicy.java">org/apache/log4j/rewrite/PropertyRewritePolicy.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.spi.Filter.java">org/apache/log4j/spi/Filter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
                 </td>
               </tr>
                           <tr>
@@ -466,7 +620,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.rewrite.PropertyRewritePolicy.java">org/apache/log4j/rewrite/PropertyRewritePolicy.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.AbstractBuilder.java">org/apache/log4j/builders/AbstractBuilder.java</a>
                 </td>
                 <td>
                   0
@@ -475,21 +629,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  3
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.filter.FilterBuilder.java">org/apache/log4j/builders/filter/FilterBuilder.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
+                  17
                 </td>
               </tr>
                           <tr>
@@ -504,6 +644,34 @@ under the License.
                 </td>
                 <td>
                   2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.appender.NullAppenderBuilder.java">org/apache/log4j/builders/appender/NullAppenderBuilder.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.appender.FileAppenderBuilder.java">org/apache/log4j/builders/appender/FileAppenderBuilder.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
                 </td>
               </tr>
                           <tr>
@@ -550,7 +718,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.NDC.java">org/apache/log4j/NDC.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.rewrite.RewritePolicyBuilder.java">org/apache/log4j/builders/rewrite/RewritePolicyBuilder.java</a>
                 </td>
                 <td>
                   0
@@ -559,21 +727,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.MDC.java">org/apache/log4j/MDC.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
+                  1
                 </td>
               </tr>
                           <tr>
@@ -606,720 +760,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.spi.LoggingEvent.java">org/apache/log4j/spi/LoggingEvent.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  9
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.AppenderSkeleton.java">org/apache/log4j/AppenderSkeleton.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  10
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.xml.DOMConfigurator.java">org/apache/log4j/xml/DOMConfigurator.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.appender.SyslogAppenderBuilder.java">org/apache/log4j/builders/appender/SyslogAppenderBuilder.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  4
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.bridge.LogEventWrapper.java">org/apache/log4j/bridge/LogEventWrapper.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  7
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.BooleanHolder.java">org/apache/log4j/builders/BooleanHolder.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.WriterAppender.java">org/apache/log4j/WriterAppender.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  11
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.or.ThreadGroupRenderer.java">org/apache/log4j/or/ThreadGroupRenderer.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.spi.package-info.java">org/apache/log4j/spi/package-info.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.spi.LocationInfo.java">org/apache/log4j/spi/LocationInfo.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  10
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.config.PropertySetterException.java">org/apache/log4j/config/PropertySetterException.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.appender.RollingFileAppenderBuilder.java">org/apache/log4j/builders/appender/RollingFileAppenderBuilder.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  6
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.spi.AppenderAttachable.java">org/apache/log4j/spi/AppenderAttachable.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  10
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.or.jms.MessageRenderer.java">org/apache/log4j/or/jms/MessageRenderer.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  9
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.spi.HierarchyEventListener.java">org/apache/log4j/spi/HierarchyEventListener.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.Appender.java">org/apache/log4j/Appender.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.spi.ThrowableInformation.java">org/apache/log4j/spi/ThrowableInformation.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.PropertyConfigurator.java">org/apache/log4j/PropertyConfigurator.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.rewrite.RewritePolicy.java">org/apache/log4j/rewrite/RewritePolicy.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.appender.AppenderBuilder.java">org/apache/log4j/builders/appender/AppenderBuilder.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.xml.UnrecognizedElementHandler.java">org/apache/log4j/xml/UnrecognizedElementHandler.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  3
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.bridge.ErrorHandlerAdapter.java">org/apache/log4j/bridge/ErrorHandlerAdapter.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.filter.LevelRangeFilterBuilder.java">org/apache/log4j/builders/filter/LevelRangeFilterBuilder.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.layout.HtmlLayoutBuilder.java">org/apache/log4j/builders/layout/HtmlLayoutBuilder.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  3
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.pattern.Log4j1NdcPatternConverter.java">org/apache/log4j/pattern/Log4j1NdcPatternConverter.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.layout.XmlLayoutBuilder.java">org/apache/log4j/builders/layout/XmlLayoutBuilder.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.layout.Log4j1XmlLayout.java">org/apache/log4j/layout/Log4j1XmlLayout.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  3
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.helpers.NullEnumeration.java">org/apache/log4j/helpers/NullEnumeration.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.Logger.java">org/apache/log4j/Logger.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.SimpleLayout.java">org/apache/log4j/SimpleLayout.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  3
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.config.Log4j1Configuration.java">org/apache/log4j/config/Log4j1Configuration.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  7
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.rewrite.MapRewritePolicy.java">org/apache/log4j/rewrite/MapRewritePolicy.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  3
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.appender.DailyRollingFileAppenderBuilder.java">org/apache/log4j/builders/appender/DailyRollingFileAppenderBuilder.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  6
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.bridge.RewritePolicyWrapper.java">org/apache/log4j/bridge/RewritePolicyWrapper.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.legacy.core.ContextUtil.java">org/apache/log4j/legacy/core/ContextUtil.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.bridge.RewritePolicyAdapter.java">org/apache/log4j/bridge/RewritePolicyAdapter.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.Category.java">org/apache/log4j/Category.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  7
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.bridge.FilterWrapper.java">org/apache/log4j/bridge/FilterWrapper.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.spi.ErrorCode.java">org/apache/log4j/spi/ErrorCode.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  16
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.filter.DenyAllFilterBuilder.java">org/apache/log4j/builders/filter/DenyAllFilterBuilder.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.spi.Filter.java">org/apache/log4j/spi/Filter.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  6
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.AbstractBuilder.java">org/apache/log4j/builders/AbstractBuilder.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  17
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.appender.NullAppenderBuilder.java">org/apache/log4j/builders/appender/NullAppenderBuilder.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.appender.FileAppenderBuilder.java">org/apache/log4j/builders/appender/FileAppenderBuilder.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  6
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.spi.ErrorHandler.java">org/apache/log4j/spi/ErrorHandler.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.or.RendererSupport.java">org/apache/log4j/or/RendererSupport.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.config.package-info.java">org/apache/log4j/config/package-info.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.package-info.java">org/apache/log4j/package-info.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.RenderedMessage.java">org/apache/log4j/RenderedMessage.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.rewrite.RewritePolicyBuilder.java">org/apache/log4j/builders/rewrite/RewritePolicyBuilder.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.Level.java">org/apache/log4j/Level.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.appender.AsyncAppenderBuilder.java">org/apache/log4j/builders/appender/AsyncAppenderBuilder.java</a>
                 </td>
                 <td>
@@ -1329,7 +769,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  7
+                  8
                 </td>
               </tr>
                           <tr>
@@ -1376,6 +816,76 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.spi.LoggingEvent.java">org/apache/log4j/spi/LoggingEvent.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  9
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.AppenderSkeleton.java">org/apache/log4j/AppenderSkeleton.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  10
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.appender.SyslogAppenderBuilder.java">org/apache/log4j/builders/appender/SyslogAppenderBuilder.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.bridge.LogEventWrapper.java">org/apache/log4j/bridge/LogEventWrapper.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.WriterAppender.java">org/apache/log4j/WriterAppender.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.config.PropertySetter.java">org/apache/log4j/config/PropertySetter.java</a>
                 </td>
                 <td>
@@ -1413,12 +923,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  4
+                  3
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.helpers.package-info.java">org/apache/log4j/helpers/package-info.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.or.ThreadGroupRenderer.java">org/apache/log4j/or/ThreadGroupRenderer.java</a>
                 </td>
                 <td>
                   0
@@ -1427,7 +937,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  2
                 </td>
               </tr>
                           <tr>
@@ -1442,6 +952,48 @@ under the License.
                 </td>
                 <td>
                   2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.spi.LocationInfo.java">org/apache/log4j/spi/LocationInfo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  10
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.builders.appender.RollingFileAppenderBuilder.java">org/apache/log4j/builders/appender/RollingFileAppenderBuilder.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-1.2-api//checkstyle.html#org.apache.log4j.spi.AppenderAttachable.java">org/apache/log4j/spi/AppenderAttachable.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  10
                 </td>
               </tr>
                           <tr>

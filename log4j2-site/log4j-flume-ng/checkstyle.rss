@@ -25,7 +25,7 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;1999 - 2019 The Apache Software Foundation</copyright>
     <item>
-      <title>File: 11,
+      <title>File: 5,
              Errors: 38,
              Warnings: 0,
              Infos: 0
@@ -44,20 +44,6 @@ under the License.
             </tr>
           </thead>
           <tbody>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-flume-ng//checkstyle.html#org.apache.logging.log4j.flume.appender.AbstractFlumeManager.java">org/apache/logging/log4j/flume/appender/AbstractFlumeManager.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
                           <tr>
                 <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-flume-ng//checkstyle.html#org.apache.logging.log4j.flume.appender.FlumeEmbeddedManager.java">org/apache/logging/log4j/flume/appender/FlumeEmbeddedManager.java</a>
@@ -88,48 +74,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-flume-ng//checkstyle.html#org.apache.logging.log4j.flume.appender.package-info.java">org/apache/logging/log4j/flume/appender/package-info.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-flume-ng//checkstyle.html#org.apache.logging.log4j.flume.appender.FlumeEventFactory.java">org/apache/logging/log4j/flume/appender/FlumeEventFactory.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-flume-ng//checkstyle.html#org.apache.logging.log4j.flume.appender.Agent.java">org/apache/logging/log4j/flume/appender/Agent.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-flume-ng//checkstyle.html#org.apache.logging.log4j.flume.appender.FlumeEvent.java">org/apache/logging/log4j/flume/appender/FlumeEvent.java</a>
                 </td>
                 <td>
@@ -140,34 +84,6 @@ under the License.
                 </td>
                 <td>
                   1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-flume-ng//checkstyle.html#org.apache.logging.log4j.flume.appender.BatchEvent.java">org/apache/logging/log4j/flume/appender/BatchEvent.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-flume-ng//checkstyle.html#org.apache.logging.log4j.flume.appender.FlumeAvroManager.java">org/apache/logging/log4j/flume/appender/FlumeAvroManager.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  14
                 </td>
               </tr>
                           <tr>
@@ -186,7 +102,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-flume-ng//checkstyle.html#org.apache.logging.log4j.flume.appender.Log4jEventSource.java">org/apache/logging/log4j/flume/appender/Log4jEventSource.java</a>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-flume-ng//checkstyle.html#org.apache.logging.log4j.flume.appender.FlumeAvroManager.java">org/apache/logging/log4j/flume/appender/FlumeAvroManager.java</a>
                 </td>
                 <td>
                   0
@@ -195,7 +111,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  14
                 </td>
               </tr>
                       </tbody>
