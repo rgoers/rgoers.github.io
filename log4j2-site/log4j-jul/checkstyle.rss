@@ -23,10 +23,10 @@ under the License.
     <link>https://logging.apache.org/log4j/2.x/log4j-jul/</link>
     <description>Apache Log4j JUL Adapter - Checkstyle report</description>
     <language>en-us</language>
-    <copyright>&#169;1999 - 2019 The Apache Software Foundation</copyright>
+    <copyright>&#169;1999 - 2020 The Apache Software Foundation</copyright>
     <item>
-      <title>File: 6,
-             Errors: 7,
+      <title>File: 12,
+             Errors: 5,
              Warnings: 0,
              Infos: 0
       </title>
@@ -46,6 +46,20 @@ under the License.
           <tbody>
                           <tr>
                 <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-jul//checkstyle.html#org.apache.logging.log4j.jul.NoOpLogger.java">org/apache/logging/log4j/jul/NoOpLogger.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-jul//checkstyle.html#org.apache.logging.log4j.jul.ApiLogger.java">org/apache/logging/log4j/jul/ApiLogger.java</a>
                 </td>
                 <td>
@@ -60,6 +74,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-jul//checkstyle.html#org.apache.logging.log4j.jul.AbstractLoggerAdapter.java">org/apache/logging/log4j/jul/AbstractLoggerAdapter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-jul//checkstyle.html#org.apache.logging.log4j.jul.LogManager.java">org/apache/logging/log4j/jul/LogManager.java</a>
                 </td>
                 <td>
@@ -69,7 +97,21 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-jul//checkstyle.html#org.apache.logging.log4j.jul.LevelConverter.java">org/apache/logging/log4j/jul/LevelConverter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
               </tr>
                           <tr>
@@ -112,6 +154,48 @@ under the License.
                 </td>
                 <td>
                   1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-jul//checkstyle.html#org.apache.logging.log4j.jul.CoreLoggerAdapter.java">org/apache/logging/log4j/jul/CoreLoggerAdapter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-jul//checkstyle.html#org.apache.logging.log4j.jul.ApiLoggerAdapter.java">org/apache/logging/log4j/jul/ApiLoggerAdapter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://logging.apache.org/log4j/2.x/log4j-jul//checkstyle.html#org.apache.logging.log4j.jul.WrappedLogger.java">org/apache/logging/log4j/jul/WrappedLogger.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
               </tr>
                           <tr>
