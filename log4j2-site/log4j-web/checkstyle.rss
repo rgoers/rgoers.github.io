@@ -20,19 +20,19 @@ under the License.
 <rss version="0.91">
   <channel>
     <title>Apache Log4j Web - Checkstyle report</title>
-    <link>https://logging.apache.org/log4j/2.x/log4j-web/</link>
+    <link>http://logging.apache.org/log4j/2.x/log4j-web/</link>
     <description>Apache Log4j Web - Checkstyle report</description>
     <language>en-us</language>
-    <copyright>&#169;1999 - 2021 The Apache Software Foundation</copyright>
+    <copyright>&#169;1999 - 2021 Apache Software Foundation</copyright>
     <item>
       <title>File: 11,
-             Errors: 41,
+             Errors: 27,
              Warnings: 0,
              Infos: 0
       </title>
-            <link>https://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html</link>
+            <link>http://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html</link>
       <description>
-        <p>Click <a href="https://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html">here</a> for the full Checkstyle report.</p>
+        <p>Click <a href="http://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html">here</a> for the full Checkstyle report.</p>
 
         <table summary="Files" boder="1">
           <thead>
@@ -46,7 +46,7 @@ under the License.
           <tbody>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#org.apache.logging.log4j.web.Log4jServletContainerInitializer.java">org/apache/logging/log4j/web/Log4jServletContainerInitializer.java</a>
+                  <a href="http://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#org.apache.logging.log4j.web.Log4jServletContainerInitializer.java">org/apache/logging/log4j/web/Log4jServletContainerInitializer.java</a>
                 </td>
                 <td>
                   0
@@ -60,7 +60,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#org.apache.logging.log4j.web.package-info.java">org/apache/logging/log4j/web/package-info.java</a>
+                  <a href="http://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#org.apache.logging.log4j.web.package-info.java">org/apache/logging/log4j/web/package-info.java</a>
                 </td>
                 <td>
                   0
@@ -74,7 +74,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#org.apache.logging.log4j.web.WebLookup.java">org/apache/logging/log4j/web/WebLookup.java</a>
+                  <a href="http://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#org.apache.logging.log4j.web.WebLookup.java">org/apache/logging/log4j/web/WebLookup.java</a>
                 </td>
                 <td>
                   0
@@ -88,7 +88,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#org.apache.logging.log4j.web.Log4jWebSupport.java">org/apache/logging/log4j/web/Log4jWebSupport.java</a>
+                  <a href="http://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#org.apache.logging.log4j.web.Log4jWebSupport.java">org/apache/logging/log4j/web/Log4jWebSupport.java</a>
                 </td>
                 <td>
                   0
@@ -102,7 +102,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#org.apache.logging.log4j.web.Log4jServletContextListener.java">org/apache/logging/log4j/web/Log4jServletContextListener.java</a>
+                  <a href="http://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#org.apache.logging.log4j.web.Log4jServletContextListener.java">org/apache/logging/log4j/web/Log4jServletContextListener.java</a>
                 </td>
                 <td>
                   0
@@ -111,82 +111,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  5
+                  3
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#org.apache.logging.log4j.web.appender.ServletAppender.java">org/apache/logging/log4j/web/appender/ServletAppender.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  13
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#org.apache.logging.log4j.web.WebLoggerContextUtils.java">org/apache/logging/log4j/web/WebLoggerContextUtils.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#org.apache.logging.log4j.web.Log4jWebInitializerImpl.java">org/apache/logging/log4j/web/Log4jWebInitializerImpl.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#org.apache.logging.log4j.web.Log4jWebLifeCycle.java">org/apache/logging/log4j/web/Log4jWebLifeCycle.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#org.apache.logging.log4j.web.Log4jServletFilter.java">org/apache/logging/log4j/web/Log4jServletFilter.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  8
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#org.apache.logging.log4j.web.ServletRequestThreadContext.java">org/apache/logging/log4j/web/ServletRequestThreadContext.java</a>
+                  <a href="http://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#org.apache.logging.log4j.web.appender.ServletAppender.java">org/apache/logging/log4j/web/appender/ServletAppender.java</a>
                 </td>
                 <td>
                   0
@@ -196,6 +126,76 @@ under the License.
                 </td>
                 <td>
                   4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#org.apache.logging.log4j.web.WebLoggerContextUtils.java">org/apache/logging/log4j/web/WebLoggerContextUtils.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#log4j2.component.properties">log4j2.component.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#org.apache.logging.log4j.web.Log4jWebInitializerImpl.java">org/apache/logging/log4j/web/Log4jWebInitializerImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#org.apache.logging.log4j.web.Log4jWebLifeCycle.java">org/apache/logging/log4j/web/Log4jWebLifeCycle.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://logging.apache.org/log4j/2.x/log4j-web//checkstyle.html#org.apache.logging.log4j.web.Log4jServletFilter.java">org/apache/logging/log4j/web/Log4jServletFilter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
                 </td>
               </tr>
                       </tbody>

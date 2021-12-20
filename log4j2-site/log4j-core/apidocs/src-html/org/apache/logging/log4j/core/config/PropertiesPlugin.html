@@ -45,7 +45,7 @@
 <span class="sourceLineNo">037</span>    }<a name="line.37"></a>
 <span class="sourceLineNo">038</span><a name="line.38"></a>
 <span class="sourceLineNo">039</span>    /**<a name="line.39"></a>
-<span class="sourceLineNo">040</span>     * Creates the Properties component.<a name="line.40"></a>
+<span class="sourceLineNo">040</span>     * Create the Properties component.<a name="line.40"></a>
 <span class="sourceLineNo">041</span>     * @param properties An array of Property elements.<a name="line.41"></a>
 <span class="sourceLineNo">042</span>     * @param config The Configuration.<a name="line.42"></a>
 <span class="sourceLineNo">043</span>     * @return An Interpolator that includes the configuration properties.<a name="line.43"></a>
@@ -56,7 +56,7 @@
 <span class="sourceLineNo">048</span>        if (properties == null) {<a name="line.48"></a>
 <span class="sourceLineNo">049</span>            return new Interpolator(config.getProperties());<a name="line.49"></a>
 <span class="sourceLineNo">050</span>        }<a name="line.50"></a>
-<span class="sourceLineNo">051</span>        final Map&lt;String, String&gt; map = new HashMap&lt;&gt;(config.getProperties());<a name="line.51"></a>
+<span class="sourceLineNo">051</span>        final Map&lt;String, String&gt; map = new HashMap&lt;String, String&gt;(config.getProperties());<a name="line.51"></a>
 <span class="sourceLineNo">052</span><a name="line.52"></a>
 <span class="sourceLineNo">053</span>        for (final Property prop : properties) {<a name="line.53"></a>
 <span class="sourceLineNo">054</span>            map.put(prop.getName(), prop.getValue());<a name="line.54"></a>
