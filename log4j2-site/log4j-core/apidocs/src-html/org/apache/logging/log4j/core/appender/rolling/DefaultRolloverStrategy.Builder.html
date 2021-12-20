@@ -478,7 +478,7 @@
 <span class="sourceLineNo">470</span>        // Retrieve the files in descending order, so the highest key will be first.<a name="line.470"></a>
 <span class="sourceLineNo">471</span>        final SortedMap&lt;Integer, Path&gt; eligibleFiles = getEligibleFiles(manager, false);<a name="line.471"></a>
 <span class="sourceLineNo">472</span>        final int maxFiles = highIndex - lowIndex + 1;<a name="line.472"></a>
-<span class="sourceLineNo">473</span>        LOGGER.debug("Eligible files: {}", eligibleFiles);<a name="line.473"></a>
+<span class="sourceLineNo">473</span><a name="line.473"></a>
 <span class="sourceLineNo">474</span>        while (eligibleFiles.size() &gt;= maxFiles) {<a name="line.474"></a>
 <span class="sourceLineNo">475</span>            try {<a name="line.475"></a>
 <span class="sourceLineNo">476</span>                final Integer key = eligibleFiles.firstKey();<a name="line.476"></a>
@@ -589,7 +589,7 @@
 <span class="sourceLineNo">581</span>                                                        .withBasePath(compressedName)<a name="line.581"></a>
 <span class="sourceLineNo">582</span>                                                        .withFollowLinks(false)<a name="line.582"></a>
 <span class="sourceLineNo">583</span>                                                        .withMaxDepth(1)<a name="line.583"></a>
-<span class="sourceLineNo">584</span>                                                        .withPathConditions(PathCondition.EMPTY_ARRAY)<a name="line.584"></a>
+<span class="sourceLineNo">584</span>                                                        .withPathConditions(new PathCondition[0])<a name="line.584"></a>
 <span class="sourceLineNo">585</span>                                                        .withSubst(getStrSubstitutor())<a name="line.585"></a>
 <span class="sourceLineNo">586</span>                                                        .withFilePermissions(manager.getFilePermissions())<a name="line.586"></a>
 <span class="sourceLineNo">587</span>                                                        .withFileOwner(manager.getFileOwner())<a name="line.587"></a>

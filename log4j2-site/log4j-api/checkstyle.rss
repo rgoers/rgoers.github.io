@@ -25,8 +25,8 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;1999 - 2021 The Apache Software Foundation</copyright>
     <item>
-      <title>File: 140,
-             Errors: 388,
+      <title>File: 135,
+             Errors: 307,
              Warnings: 0,
              Infos: 3
       </title>
@@ -181,21 +181,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.MapMessageJsonFormatter.java">org/apache/logging/log4j/message/MapMessageJsonFormatter.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  8
+                  2
                 </td>
               </tr>
                           <tr>
@@ -251,7 +237,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  23
+                  13
                 </td>
               </tr>
                           <tr>
@@ -349,7 +335,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  1
                 </td>
               </tr>
                           <tr>
@@ -377,7 +363,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  1
+                  0
                 </td>
               </tr>
                           <tr>
@@ -433,7 +419,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  10
+                  9
                 </td>
               </tr>
                           <tr>
@@ -741,7 +727,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  8
+                  5
                 </td>
               </tr>
                           <tr>
@@ -769,7 +755,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  1
+                  2
                 </td>
               </tr>
                           <tr>
@@ -783,21 +769,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.internal.package-info.java">org/apache/logging/log4j/internal/package-info.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
+                  2
                 </td>
               </tr>
                           <tr>
@@ -1063,7 +1035,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  3
+                  2
                 </td>
               </tr>
                           <tr>
@@ -1203,7 +1175,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  9
+                  0
                 </td>
               </tr>
                           <tr>
@@ -1362,20 +1334,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.internal.DefaultLogBuilder.java">org/apache/logging/log4j/internal/DefaultLogBuilder.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  6
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.simple.SimpleLogger.java">org/apache/logging/log4j/simple/SimpleLogger.java</a>
                 </td>
                 <td>
@@ -1413,7 +1371,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  0
                 </td>
               </tr>
                           <tr>
@@ -1441,7 +1399,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  7
+                  2
                 </td>
               </tr>
                           <tr>
@@ -1455,7 +1413,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  56
+                  30
                 </td>
               </tr>
                           <tr>
@@ -1586,20 +1544,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.LogBuilder.java">org/apache/logging/log4j/LogBuilder.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  4
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.util.PerformanceSensitive.java">org/apache/logging/log4j/util/PerformanceSensitive.java</a>
                 </td>
                 <td>
@@ -1671,20 +1615,6 @@ under the License.
                           <tr>
                 <td>
                   <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.message.FlowMessage.java">org/apache/logging/log4j/message/FlowMessage.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://logging.apache.org/log4j/2.x/log4j-api//checkstyle.html#org.apache.logging.log4j.internal.LogManagerStatus.java">org/apache/logging/log4j/internal/LogManagerStatus.java</a>
                 </td>
                 <td>
                   0
@@ -1819,7 +1749,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  1
+                  0
                 </td>
               </tr>
                           <tr>
@@ -1847,7 +1777,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  5
+                  4
                 </td>
               </tr>
                           <tr>
@@ -2001,7 +1931,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  5
+                  2
                 </td>
               </tr>
                       </tbody>

@@ -12,7 +12,6 @@ org.apache.logging.log4j.core.appender.rolling.action
 org.apache.logging.log4j.core.appender.routing
 org.apache.logging.log4j.core.async
 org.apache.logging.log4j.core.config
-org.apache.logging.log4j.core.config.arbiters
 org.apache.logging.log4j.core.config.builder.api
 org.apache.logging.log4j.core.config.builder.impl
 org.apache.logging.log4j.core.config.composite
@@ -34,7 +33,6 @@ org.apache.logging.log4j.core.impl
 org.apache.logging.log4j.core.jackson
 org.apache.logging.log4j.core.jmx
 org.apache.logging.log4j.core.layout
-org.apache.logging.log4j.core.layout.internal
 org.apache.logging.log4j.core.lookup
 org.apache.logging.log4j.core.message
 org.apache.logging.log4j.core.net

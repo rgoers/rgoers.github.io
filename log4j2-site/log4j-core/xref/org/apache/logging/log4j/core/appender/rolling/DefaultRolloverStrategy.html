@@ -478,7 +478,7 @@
 <a class="jxr_linenumber" name="L470" href="#L470">470</a>         <em class="jxr_comment">// Retrieve the files in descending order, so the highest key will be first.</em>
 <a class="jxr_linenumber" name="L471" href="#L471">471</a>         <strong class="jxr_keyword">final</strong> SortedMap&lt;Integer, Path&gt; eligibleFiles = getEligibleFiles(manager, false);
 <a class="jxr_linenumber" name="L472" href="#L472">472</a>         <strong class="jxr_keyword">final</strong> <strong class="jxr_keyword">int</strong> maxFiles = highIndex - lowIndex + 1;
-<a class="jxr_linenumber" name="L473" href="#L473">473</a>         LOGGER.debug(<span class="jxr_string">"Eligible files: {}"</span>, eligibleFiles);
+<a class="jxr_linenumber" name="L473" href="#L473">473</a> 
 <a class="jxr_linenumber" name="L474" href="#L474">474</a>         <strong class="jxr_keyword">while</strong> (eligibleFiles.size() &gt;= maxFiles) {
 <a class="jxr_linenumber" name="L475" href="#L475">475</a>             <strong class="jxr_keyword">try</strong> {
 <a class="jxr_linenumber" name="L476" href="#L476">476</a>                 <strong class="jxr_keyword">final</strong> Integer key = eligibleFiles.firstKey();
@@ -589,7 +589,7 @@
 <a class="jxr_linenumber" name="L581" href="#L581">581</a>                                                         .withBasePath(compressedName)
 <a class="jxr_linenumber" name="L582" href="#L582">582</a>                                                         .withFollowLinks(false)
 <a class="jxr_linenumber" name="L583" href="#L583">583</a>                                                         .withMaxDepth(1)
-<a class="jxr_linenumber" name="L584" href="#L584">584</a>                                                         .withPathConditions(PathCondition.EMPTY_ARRAY)
+<a class="jxr_linenumber" name="L584" href="#L584">584</a>                                                         .withPathConditions(<strong class="jxr_keyword">new</strong> <a href="../../../../../../../org/apache/logging/log4j/core/appender/rolling/action/PathCondition.html">PathCondition</a>[0])
 <a class="jxr_linenumber" name="L585" href="#L585">585</a>                                                         .withSubst(getStrSubstitutor())
 <a class="jxr_linenumber" name="L586" href="#L586">586</a>                                                         .withFilePermissions(manager.getFilePermissions())
 <a class="jxr_linenumber" name="L587" href="#L587">587</a>                                                         .withFileOwner(manager.getFileOwner())
