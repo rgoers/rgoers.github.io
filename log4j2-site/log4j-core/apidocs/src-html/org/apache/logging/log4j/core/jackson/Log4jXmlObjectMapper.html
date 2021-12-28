@@ -29,7 +29,7 @@
 <span class="sourceLineNo">021</span>import com.fasterxml.jackson.dataformat.xml.XmlMapper;<a name="line.21"></a>
 <span class="sourceLineNo">022</span><a name="line.22"></a>
 <span class="sourceLineNo">023</span>/**<a name="line.23"></a>
-<span class="sourceLineNo">024</span> * A Jackson {@link ObjectMapper} initialized for Log4j.<a name="line.24"></a>
+<span class="sourceLineNo">024</span> * A Jackson XML {@link ObjectMapper} initialized for Log4j.<a name="line.24"></a>
 <span class="sourceLineNo">025</span> * &lt;p&gt;<a name="line.25"></a>
 <span class="sourceLineNo">026</span> * &lt;em&gt;Consider this class private.&lt;/em&gt;<a name="line.26"></a>
 <span class="sourceLineNo">027</span> * &lt;/p&gt;<a name="line.27"></a>
@@ -42,11 +42,18 @@
 <span class="sourceLineNo">034</span>     * Create a new instance using the {@link Log4jXmlModule}.<a name="line.34"></a>
 <span class="sourceLineNo">035</span>     */<a name="line.35"></a>
 <span class="sourceLineNo">036</span>    public Log4jXmlObjectMapper() {<a name="line.36"></a>
-<span class="sourceLineNo">037</span>        super(new Log4jXmlModule());<a name="line.37"></a>
-<span class="sourceLineNo">038</span>        this.setSerializationInclusion(JsonInclude.Include.NON_EMPTY);<a name="line.38"></a>
-<span class="sourceLineNo">039</span>    }<a name="line.39"></a>
-<span class="sourceLineNo">040</span><a name="line.40"></a>
-<span class="sourceLineNo">041</span>}<a name="line.41"></a>
+<span class="sourceLineNo">037</span>        this(true, false);<a name="line.37"></a>
+<span class="sourceLineNo">038</span>    }<a name="line.38"></a>
+<span class="sourceLineNo">039</span><a name="line.39"></a>
+<span class="sourceLineNo">040</span>    /**<a name="line.40"></a>
+<span class="sourceLineNo">041</span>     * Create a new instance using the {@link Log4jXmlModule}.<a name="line.41"></a>
+<span class="sourceLineNo">042</span>     */<a name="line.42"></a>
+<span class="sourceLineNo">043</span>    public Log4jXmlObjectMapper(final boolean includeStacktrace, final boolean stacktraceAsString) {<a name="line.43"></a>
+<span class="sourceLineNo">044</span>        super(new Log4jXmlModule(includeStacktrace, stacktraceAsString));<a name="line.44"></a>
+<span class="sourceLineNo">045</span>        this.setSerializationInclusion(JsonInclude.Include.NON_EMPTY);<a name="line.45"></a>
+<span class="sourceLineNo">046</span>    }<a name="line.46"></a>
+<span class="sourceLineNo">047</span><a name="line.47"></a>
+<span class="sourceLineNo">048</span>}<a name="line.48"></a>
 
 
 
